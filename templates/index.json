@@ -51,73 +51,6 @@
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
       }
     },
-    "rich_text_Fp96EW": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_W8MNfx": {
-          "type": "heading",
-          "settings": {
-            "text": "Vu sur :",
-            "heading_tag": "h1",
-            "text_color": "#f58d8d",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_W8MNfx"
-      ],
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "slideshow_TGz8C8": {
-      "type": "slideshow",
-      "blocks": {
-        "image_wycM6d": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-03-16_032631.png",
-            "mobile_image": "shopify://shop_images/Capture_d_ecran_2025-03-16_032631.png",
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "",
-            "title": "",
-            "heading_tag": "h0",
-            "button_text": "",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30,
-            "background": "#ffffff",
-            "background_gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_wycM6d"
-      ],
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "show_initial_transition": false,
-        "image_size": "auto",
-        "controls_type": "none",
-        "transition_type": "fade",
-        "autoplay": false,
-        "cycle_speed": 6,
-        "background": "#ffffff",
-        "background_gradient": ""
-      }
-    },
     "logo_list_AGRKWH": {
       "type": "logo-list",
       "blocks": {
@@ -173,6 +106,336 @@
         "logo_item_border": ""
       }
     },
+    "rich_text_gqhQqK": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_YRmYre": {
+          "type": "subheading",
+          "settings": {
+            "text": "Secret de beauté Coréen"
+          }
+        },
+        "heading_4m6hjn": {
+          "type": "heading",
+          "settings": {
+            "text": "L’Innovation Coréenne au Service de Votre Peau",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_PyYHJp": {
+          "type": "richtext",
+          "settings": {
+            "content": "<h6>Notre masque au bio-collagène est conçu selon une <strong>expertise coréenne avancée</strong> en soins anti-âge. Sa formule innovante, enrichie en particules ultrafines, <strong>pénètre en profondeur</strong> pour une <strong>efficacité optimale</strong>, surpassant les crèmes classiques.</h6><h6><strong>Approuvé par des dermatologues et adopté par plus de 15 000 clientes</strong>, il hydrate intensément, raffermit et lisse la peau pour un teint Glass Skin et rajeuni.</h6>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_YRmYre",
+        "heading_4m6hjn",
+        "richtext_PyYHJp"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "large",
+        "text_position": "start",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "rich_text_Fp96EW": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_W8MNfx": {
+          "type": "heading",
+          "settings": {
+            "text": "Vu sur :",
+            "heading_tag": "h4",
+            "text_color": "#1a1a1a",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_W8MNfx"
+      ],
+      "settings": {
+        "full_width": false,
+        "content_width": "medium",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "slideshow_TGz8C8": {
+      "type": "slideshow",
+      "blocks": {
+        "image_wycM6d": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-03-16_032631.png",
+            "mobile_image": "shopify://shop_images/Capture_d_ecran_2025-03-16_032631.png",
+            "content_max_width": 640,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "#ffffff",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_wycM6d"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "show_initial_transition": false,
+        "image_size": "auto",
+        "controls_type": "none",
+        "transition_type": "fade",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#ffffff",
+        "background_gradient": ""
+      }
+    },
+    "slideshow_kQHPcD": {
+      "type": "slideshow",
+      "blocks": {
+        "image_mtPrFT": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/4_44c12dde-5da7-4798-aa64-b42603bc4c61.webp",
+            "mobile_image": "shopify://shop_images/4_44c12dde-5da7-4798-aa64-b42603bc4c61.webp",
+            "content_max_width": 400,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_mtPrFT"
+      ],
+      "settings": {
+        "full_width": false,
+        "allow_transparent_header": false,
+        "show_initial_transition": false,
+        "image_size": "auto",
+        "controls_type": "none",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 4,
+        "background": "#ffffff",
+        "background_gradient": ""
+      }
+    },
+    "text_with_icons_HyEw8w": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_hjQ8mT": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/mi_pdp-reason1_200x_e45fbd57-2b47-4fe8-a200-f267de72663c.svg",
+            "mobile_icon_width": 80,
+            "icon_width": 80,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "",
+            "content": "<p><strong>Économisez du temps et de l’argent. </strong>Un soin efficace et ciblé, sans dépenser en produits inefficaces ou en rendez-vous en institut.</p>"
+          }
+        },
+        "item_mePLin": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/Capture_d_ecran_2025-03-16_235331.png",
+            "mobile_icon_width": 80,
+            "icon_width": 68,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "",
+            "content": "<p><strong>Une solution anti-âge puissante et naturelle</strong>. Enrichi en bio-collagène, il raffermit la peau, lisse les rides et booste l’éclat du teint.</p>"
+          }
+        },
+        "item_GX3pHx": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/mi_pdp-reason6_200x_988d6a8f-0e0a-4f13-b28c-fce2d6424559.svg",
+            "mobile_icon_width": 80,
+            "icon_width": 80,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "",
+            "content": "<p><strong>Une technologie coréenne avancée. </strong>Formule qui pénètre plus profondément que les crèmes classiques, résultats dès la première application.</p>"
+          }
+        },
+        "item_MFyLzA": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/mi_pdp-reason3_200x_5229bdea-f8e7-4fe0-968a-a43d4624bbf6.svg",
+            "mobile_icon_width": 80,
+            "icon_width": 80,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "",
+            "content": "<p><strong>Un coup d’éclat avant chaque occasion. </strong>Idéal pour revitaliser une peau terne et fatiguée avant un événement.</p>"
+          }
+        },
+        "item_mRqTkV": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/1_eba0519b-9a57-4084-84c8-e2e57863ebc9.png",
+            "mobile_icon_width": 80,
+            "icon_width": 76,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "",
+            "content": "<p><strong>Application rapide et agréable. </strong>Facile à appliquer, ce masque transforme votre routine en un véritable moment de détente.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_hjQ8mT",
+        "item_mePLin",
+        "item_GX3pHx",
+        "item_MFyLzA",
+        "item_mRqTkV"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": true,
+        "title": "5 Raisons d'Adopter le Masque au Collagène Biollance",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "small",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "logo_list_VrWbUQ": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_wLmf3P": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/logo-elle_9f9a219a-a683-4021-9c7b-efc04b9414a5.svg",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_gVFX4w": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/logo_vogue.svg",
+            "logo_width": 280,
+            "link": ""
+          }
+        },
+        "logo_TJ9Jp8": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_WemwPy": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_CGyay9": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_wLmf3P",
+        "logo_gVFX4w",
+        "logo_TJ9Jp8",
+        "logo_WemwPy",
+        "logo_CGyay9"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "title": "Logo list",
+        "content": "",
+        "text_alignment": "start",
+        "items_per_row": 5,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
+    "before_after_image_LXganB": {
+      "type": "before-after-image",
+      "settings": {
+        "full_width": false,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "before_image": "shopify://shop_images/avant_01ac9f4b-20c2-4a6d-9f24-862235dc7b0e.jpg",
+        "after_image": "shopify://shop_images/apres_60a4a6cb-7cac-4d5c-ab55-3b7296fbb974.jpg",
+        "expand_image": false,
+        "text_position": "center",
+        "before_after_text_position": "top",
+        "before_text": "Avant",
+        "after_text": "Après",
+        "drag_initial_position": 50,
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "#000000",
+        "before_text_color": "#ffffff",
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#000000",
+        "drag_cursor_color": "#9d2b32"
+      }
+    },
     "press_jBbxEX": {
       "type": "press",
       "blocks": {
@@ -192,8 +455,8 @@
         "quote_C7zw7z"
       ],
       "settings": {
-        "full_width": true,
-        "content_size": "medium",
+        "full_width": false,
+        "content_size": "large",
         "background": "#ffffff",
         "background_gradient": "",
         "text_color": "#1a1a1a",
@@ -201,28 +464,6 @@
         "heading_gradient": "",
         "logo_item_background": "",
         "logo_item_border": ""
-      }
-    },
-    "before_after_image_LXganB": {
-      "type": "before-after-image",
-      "settings": {
-        "full_width": false,
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "expand_image": false,
-        "text_position": "center",
-        "before_after_text_position": "top",
-        "before_text": "",
-        "after_text": "",
-        "drag_initial_position": 50,
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": "#000000",
-        "before_text_color": "#514e4e",
-        "after_text_color": "#ffffff",
-        "drag_cursor_background": "#000000",
-        "drag_cursor_color": "#9d2b32"
       }
     },
     "text_with_icons_cCHj9F": {
@@ -299,41 +540,34 @@
         "text_color": ""
       }
     },
-    "ss_wave_2_CjP86W": {
-      "type": "ss-wave-2",
-      "settings": {
-        "wave_height": 120,
-        "wave_height_mobile": 80,
-        "wave_animation": true,
-        "wave_rotate": false,
-        "wave_color": "#ffffff",
-        "background_color": "#9d2b32",
-        "background_gradient": "",
-        "border_color": "#000000",
-        "margin_top": 0,
-        "margin_bottom": 0,
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "padding_horizontal": 0,
-        "padding_horizontal_mobile": 0,
-        "full_width": true,
-        "content_width": 120,
-        "border_thickness": 0
-      }
-    },
     "scrolling_text_kUPHi8": {
       "type": "scrolling-text",
       "settings": {
-        "full_width": true,
-        "text": "Our customers reviews",
-        "text_size": "large",
+        "full_width": false,
+        "text": "Notre masque est exclusivement disponible sur notre site web. Il n'est pas encore vendu en magasin.",
+        "text_size": "xsmall",
         "text_style": "fill",
         "scrolling_mode": "auto",
-        "scrolling_speed": 3,
+        "scrolling_speed": 7,
         "background": "",
         "background_gradient": "",
-        "text_color": "",
-        "text_gradient": ""
+        "text_color": "#f58d8d",
+        "text_gradient": "linear-gradient(180deg, rgba(245, 141, 141, 1), rgba(245, 141, 141, 0.62) 50%, rgba(245, 141, 141, 1) 100%)"
+      }
+    },
+    "video_JbJ4Cn": {
+      "type": "video",
+      "settings": {
+        "full_width": false,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "auto",
+        "video": "shopify://files/videos/WhatsApp Video 2025-03-16 at 22.31.38_51b8b552-78d9-4415-847a-19250066e3dc.mp4",
+        "mobile_video": "shopify://files/videos/WhatsApp Video 2025-03-16 at 22.31.38_51b8b552-78d9-4415-847a-19250066e3dc.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     },
     "173064299353fe3dc7": {
@@ -366,59 +600,23 @@
         "button_background": "",
         "button_text_color": ""
       }
-    },
-    "rich_text_gqhQqK": {
-      "type": "rich-text",
-      "blocks": {
-        "subheading_YRmYre": {
-          "type": "subheading",
-          "settings": {
-            "text": "Secret de beauté Coréen"
-          }
-        },
-        "heading_4m6hjn": {
-          "type": "heading",
-          "settings": {
-            "text": "L’Innovation Coréenne au Service de Votre Peau",
-            "heading_tag": "h2",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "richtext_PyYHJp": {
-          "type": "richtext",
-          "settings": {
-            "content": "<h6>Notre masque au bio-collagène est conçu selon une <strong>expertise coréenne avancée</strong> en soins anti-âge. Sa formule innovante, enrichie en particules ultrafines, <strong>pénètre en profondeur</strong> pour une <strong>efficacité optimale</strong>, surpassant les crèmes classiques.</h6><h6><strong>Approuvé par des dermatologues et adopté par plus de 15 000 clientes</strong>, il hydrate intensément, raffermit et lisse la peau pour un teint éclatant et rajeuni.</h6>"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_YRmYre",
-        "heading_4m6hjn",
-        "richtext_PyYHJp"
-      ],
-      "settings": {
-        "full_width": true,
-        "content_width": "large",
-        "text_position": "start",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
     }
   },
   "order": [
     "slideshow",
     "logo_list_AGRKWH",
     "rich_text_gqhQqK",
-    "before_after_image_LXganB",
     "rich_text_Fp96EW",
     "slideshow_TGz8C8",
+    "slideshow_kQHPcD",
+    "text_with_icons_HyEw8w",
+    "logo_list_VrWbUQ",
+    "before_after_image_LXganB",
     "press_jBbxEX",
-    "text_with_icons_cCHj9F",
-    "ss_wave_2_CjP86W",
     "scrolling_text_kUPHi8",
+    "video_JbJ4Cn",
     "173064299353fe3dc7",
+    "text_with_icons_cCHj9F",
     "contact_HyCkWQ"
   ]
 }
