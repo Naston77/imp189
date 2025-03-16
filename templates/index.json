@@ -338,7 +338,7 @@
       "settings": {
         "full_width": true,
         "stack_on_mobile": true,
-        "title": "5 Raisons d'Adopter le Masque au Collagène Biollance",
+        "title": "5 Raisons d'Adopter le Masque au Collagène Biollance™",
         "heading_tag": "h5",
         "text_alignment": "center",
         "icon_spacing": "small",
@@ -466,6 +466,47 @@
         "logo_item_border": ""
       }
     },
+    "scrolling_text_kUPHi8": {
+      "type": "scrolling-text",
+      "settings": {
+        "full_width": false,
+        "text": "Notre masque est exclusivement disponible sur notre site web. Il n'est pas encore vendu en magasin.",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 7,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "#f58d8d",
+        "text_gradient": "linear-gradient(180deg, rgba(245, 141, 141, 1), rgba(245, 141, 141, 0.62) 50%, rgba(245, 141, 141, 1) 100%)"
+      }
+    },
+    "video_JbJ4Cn": {
+      "type": "video",
+      "settings": {
+        "full_width": false,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "auto",
+        "video": "shopify://files/videos/WhatsApp Video 2025-03-16 at 22.31.38_51b8b552-78d9-4415-847a-19250066e3dc.mp4",
+        "mobile_video": "shopify://files/videos/WhatsApp Video 2025-03-16 at 22.31.38_51b8b552-78d9-4415-847a-19250066e3dc.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "173064299353fe3dc7": {
+      "type": "apps",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "#9d2b32"
+      }
+    },
     "text_with_icons_cCHj9F": {
       "type": "text-with-icons",
       "blocks": {
@@ -538,47 +579,6 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
-      }
-    },
-    "scrolling_text_kUPHi8": {
-      "type": "scrolling-text",
-      "settings": {
-        "full_width": false,
-        "text": "Notre masque est exclusivement disponible sur notre site web. Il n'est pas encore vendu en magasin.",
-        "text_size": "xsmall",
-        "text_style": "fill",
-        "scrolling_mode": "auto",
-        "scrolling_speed": 7,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "#f58d8d",
-        "text_gradient": "linear-gradient(180deg, rgba(245, 141, 141, 1), rgba(245, 141, 141, 0.62) 50%, rgba(245, 141, 141, 1) 100%)"
-      }
-    },
-    "video_JbJ4Cn": {
-      "type": "video",
-      "settings": {
-        "full_width": false,
-        "allow_transparent_header": false,
-        "autoplay": true,
-        "video_size": "auto",
-        "video": "shopify://files/videos/WhatsApp Video 2025-03-16 at 22.31.38_51b8b552-78d9-4415-847a-19250066e3dc.mp4",
-        "mobile_video": "shopify://files/videos/WhatsApp Video 2025-03-16 at 22.31.38_51b8b552-78d9-4415-847a-19250066e3dc.mp4",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
-    "173064299353fe3dc7": {
-      "type": "apps",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": "#9d2b32"
       }
     },
     "contact_HyCkWQ": {
