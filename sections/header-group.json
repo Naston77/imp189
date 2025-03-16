@@ -27,12 +27,12 @@
       ],
       "settings": {
         "enable_sticky": false,
-        "autoplay": true,
+        "autoplay": false,
         "cycle_speed": 10,
         "text_size": "text-xs",
-        "navigation_mode": "scrolling",
+        "navigation_mode": "arrows",
         "scrolling_speed": 10,
-        "background": "#e58e79",
+        "background": "#f58d8d",
         "background_gradient": "",
         "text_color": "#ffffff"
       }

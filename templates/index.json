@@ -51,80 +51,71 @@
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
       }
     },
-    "ss_circle_menu_NeCgdJ": {
-      "type": "ss-circle-menu",
+    "rich_text_Fp96EW": {
+      "type": "rich-text",
       "blocks": {
-        "image_ALQ8J8": {
-          "type": "Image",
+        "heading_W8MNfx": {
+          "type": "heading",
           "settings": {
-            "bubble_text": "",
-            "bubble_link": ""
-          }
-        },
-        "image_qnkYhR": {
-          "type": "Image",
-          "settings": {
-            "bubble_text": "",
-            "bubble_link": ""
-          }
-        },
-        "image_jp9xht": {
-          "type": "Image",
-          "settings": {
-            "bubble_text": "",
-            "bubble_link": ""
-          }
-        },
-        "image_gXqiCi": {
-          "type": "Image",
-          "settings": {
-            "bubble_text": "",
-            "bubble_link": ""
+            "text": "Vu sur :",
+            "heading_tag": "h1",
+            "text_color": "#f58d8d",
+            "gradient": ""
           }
         }
       },
       "block_order": [
-        "image_ALQ8J8",
-        "image_qnkYhR",
-        "image_jp9xht",
-        "image_gXqiCi"
+        "heading_W8MNfx"
       ],
-      "disabled": true,
       "settings": {
-        "slider_width": 100,
-        "slider_gap": 100,
-        "slider_gap_mobile": 0,
-        "icon_size": 200,
-        "icon_size_mobile": 200,
-        "icon_space": 0,
-        "icon_space_mobile": 0,
-        "icon_border_thickness": 0,
-        "icon_square": false,
-        "text_custom": false,
-        "text_font": "josefin_sans_n4",
-        "text_size": 12,
-        "text_size_mobile": 10,
-        "text_height": 130,
-        "text_mt": 8,
-        "icon_border_color": "#000000",
-        "icon_border_gradient": "",
-        "text_color": "#000000",
-        "background_color": "#ffffff",
-        "background_gradient": "",
-        "border_color": "#000000",
-        "border_gradient": "",
-        "margin_top": 0,
-        "margin_bottom": 0,
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "padding_horizontal": 0,
-        "padding_horizontal_mobile": 0,
         "full_width": true,
-        "content_width": 150,
-        "border_thickness": 0,
-        "lazy": true,
-        "hide_mobile": false,
-        "hide_desktop": false
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "slideshow_TGz8C8": {
+      "type": "slideshow",
+      "blocks": {
+        "image_wycM6d": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-03-16_032631.png",
+            "mobile_image": "shopify://shop_images/Capture_d_ecran_2025-03-16_032631.png",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "#ffffff",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_wycM6d"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "show_initial_transition": false,
+        "image_size": "auto",
+        "controls_type": "none",
+        "transition_type": "fade",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#ffffff",
+        "background_gradient": ""
       }
     },
     "logo_list_AGRKWH": {
@@ -180,66 +171,6 @@
         "heading_gradient": "",
         "logo_item_background": "",
         "logo_item_border": ""
-      }
-    },
-    "text_with_icons_aU78TD": {
-      "type": "text-with-icons",
-      "blocks": {
-        "item_yytWhD": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-coupon",
-            "mobile_icon_width": 120,
-            "icon_width": 120,
-            "icon_background_type": "none",
-            "icon_background": "#9d2b32",
-            "icon_color": "#9d2b32",
-            "title": "",
-            "content": ""
-          }
-        },
-        "item_VPV93P": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-coupon",
-            "mobile_icon_width": 120,
-            "icon_width": 120,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "",
-            "content": ""
-          }
-        },
-        "item_4aR7am": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-coupon",
-            "mobile_icon_width": 120,
-            "icon_width": 120,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "",
-            "content": ""
-          }
-        }
-      },
-      "block_order": [
-        "item_yytWhD",
-        "item_VPV93P",
-        "item_4aR7am"
-      ],
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "title": "Featured on",
-        "heading_tag": "h1",
-        "text_alignment": "center",
-        "icon_spacing": "small",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
       }
     },
     "press_jBbxEX": {
@@ -1141,9 +1072,9 @@
   },
   "order": [
     "slideshow",
-    "ss_circle_menu_NeCgdJ",
+    "rich_text_Fp96EW",
+    "slideshow_TGz8C8",
     "logo_list_AGRKWH",
-    "text_with_icons_aU78TD",
     "press_jBbxEX",
     "images_with_text_scrolling_GNWQEn",
     "impact_text_KfxV8B",
