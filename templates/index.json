@@ -646,6 +646,74 @@
         "text_color": "#9d2b32"
       }
     },
+    "faq_LqqTQh": {
+      "type": "faq",
+      "blocks": {
+        "item_teGEBB": {
+          "type": "item",
+          "settings": {
+            "title": "Quels sont les délais de livraison?",
+            "content": "<p><strong>Notre délai de livraison est compris entre 3 et 11 jours ouvrables.</strong></p><p><strong>Q :</strong> Pourquoi votre délai de livraison est-il si long ?</p><p><strong>R :</strong> Notre délai de livraison est plus long que celui de nos concurrents, mais nous nous engageons à protéger l'environnement. Afin de protéger la planète de la pollution, nous expédions directement depuis nos fabricants. Nous évitons ainsi les doubles expéditions et les émissions de CO2 supplémentaires. Nous sommes fiers d'être une entreprise dont la mission est aussi de sauver la planète ! *Note : les jours indiqués ci-dessus ne sont que des estimations des jours ouvrables et n'incluent pas notre délai de traitement de 2 à 5 jours.</p>"
+          }
+        },
+        "item_3YXqJh": {
+          "type": "item",
+          "settings": {
+            "title": "À quelle fréquence doit-je utiliser le masque Bio-Collagène?",
+            "content": "<p>Nous recommandons d'utiliser le masque 2 à 3 fois par semaine pour des résultats optimaux. Vous pouvez toutefois adapter la fréquence d'utilisation aux besoins et à la sensibilité de votre peau.</p>"
+          }
+        },
+        "item_G78QHA": {
+          "type": "item",
+          "settings": {
+            "title": "Puis-je utiliser le ce masque sur une peau sensible?",
+            "content": "<p>Oui, le masque Bio-Collagène est hypoallergénique et formulé avec des ingrédients non toxiques et non irritants, ce qui le rend adapté aux types de peau les plus sensibles.</p>"
+          }
+        },
+        "item_R8YpRx": {
+          "type": "item",
+          "settings": {
+            "title": "Quels sont les principaux avantages de ce masque?",
+            "content": "<p>Ce masque hydrate en profondeur, resserre les pores, raffermit la peau et renforce la barrière cutanée. Il contribue également à améliorer le teint et la texture de la peau tout en réduisant l'apparence des rides et ridules.</p>"
+          }
+        },
+        "item_7yjtqV": {
+          "type": "item",
+          "settings": {
+            "title": "Puis-je utiliser le masque en même temps que mes autres produits de soin?",
+            "content": "<p>Oui, le masque au bio-collagène peut être intégré à votre routine de soins existante. Cependant, nous recommandons de tester les nouveaux produits pour s'assurer qu'ils sont compatibles avec votre peau.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_teGEBB",
+        "item_3YXqJh",
+        "item_G78QHA",
+        "item_R8YpRx",
+        "item_7yjtqV"
+      ],
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "AVEZ-VOUS DES QUESTIONS ?",
+        "content": "<p>Nos experts et dermatologues sont là pour répondre à vos questions</p>",
+        "team_avatar_width": 160,
+        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
+        "answer_time": "Average answer time: 24h",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
     "text_with_icons_cCHj9F": {
       "type": "text-with-icons",
       "blocks": {
@@ -722,6 +790,7 @@
     },
     "contact_HyCkWQ": {
       "type": "contact",
+      "disabled": true,
       "settings": {
         "full_width": true,
         "subheading": "Our customer support is available 7 days a week. Average answer time: 35 minutes.",
@@ -757,6 +826,7 @@
     "174217307078116510",
     "video_JbJ4Cn",
     "173064299353fe3dc7",
+    "faq_LqqTQh",
     "text_with_icons_cCHj9F",
     "contact_HyCkWQ"
   ]
