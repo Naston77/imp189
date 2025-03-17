@@ -495,6 +495,12 @@
             "heading_tag": "h2"
           }
         },
+        "rating_xbiKwN": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
         "badges_KDxXLF": {
           "type": "badges",
           "settings": {}
@@ -510,12 +516,6 @@
           "disabled": true,
           "settings": {
             "show_taxes_notice": false
-          }
-        },
-        "rating_xbiKwN": {
-          "type": "rating",
-          "settings": {
-            "show_empty": false
           }
         },
         "separator_WE73hc": {
@@ -563,10 +563,10 @@
       "block_order": [
         "vendor_hMwahR",
         "title_fGqnWa",
+        "rating_xbiKwN",
         "badges_KDxXLF",
         "kaching_bundles_app_block_G67kyU",
         "price_V6qJjg",
-        "rating_xbiKwN",
         "separator_WE73hc",
         "variant_picker_H3MbBW",
         "quantity_selector_AeJNUt",
@@ -601,10 +601,10 @@
             "only_photos": false,
             "hide_thumbnails": true,
             "product_handle": "",
-            "aggregated": true,
+            "aggregated": false,
             "data-limit": 4,
             "maxwidth": 1080,
-            "is_sample": true
+            "is_sample": false
           }
         }
       },
