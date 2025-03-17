@@ -481,6 +481,145 @@
         "text_gradient": "linear-gradient(180deg, rgba(245, 141, 141, 1), rgba(245, 141, 141, 0.62) 50%, rgba(245, 141, 141, 1) 100%)"
       }
     },
+    "featured_product_b8M4CG": {
+      "type": "featured-product",
+      "blocks": {
+        "vendor_hMwahR": {
+          "type": "vendor",
+          "disabled": true,
+          "settings": {}
+        },
+        "title_fGqnWa": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges_KDxXLF": {
+          "type": "badges",
+          "settings": {}
+        },
+        "kaching_bundles_app_block_G67kyU": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "{{section.settings.product}}"
+          }
+        },
+        "price_V6qJjg": {
+          "type": "price",
+          "disabled": true,
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating_xbiKwN": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "separator_WE73hc": {
+          "type": "separator",
+          "disabled": true,
+          "settings": {}
+        },
+        "variant_picker_H3MbBW": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_style": "block",
+            "swatch_selector_style": "swatch",
+            "variant_image_options": "",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector_AeJNUt": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_MDFkN7": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "#f58d8d",
+            "atc_button_text_color": "#ffffff",
+            "payment_button_background": "#f58d8d",
+            "payment_button_text_color": "#f58d8d"
+          }
+        },
+        "pickup_availability_b93keT": {
+          "type": "pickup_availability",
+          "settings": {}
+        },
+        "description_8PWenG": {
+          "type": "description",
+          "settings": {
+            "collapse_content": true
+          }
+        }
+      },
+      "block_order": [
+        "vendor_hMwahR",
+        "title_fGqnWa",
+        "badges_KDxXLF",
+        "kaching_bundles_app_block_G67kyU",
+        "price_V6qJjg",
+        "rating_xbiKwN",
+        "separator_WE73hc",
+        "variant_picker_H3MbBW",
+        "quantity_selector_AeJNUt",
+        "buy_buttons_MDFkN7",
+        "pickup_availability_b93keT",
+        "description_8PWenG"
+      ],
+      "settings": {
+        "full_width": true,
+        "product": "biollance™-masque-au-bio-collagene",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_bottom",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "174217307078116510": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_agg_section_rz4FKc": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-agg-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": false,
+            "hide_thumbnails": true,
+            "product_handle": "",
+            "aggregated": true,
+            "data-limit": 4,
+            "maxwidth": 1080,
+            "is_sample": true
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_agg_section_rz4FKc"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "video_JbJ4Cn": {
       "type": "video",
       "settings": {
@@ -519,8 +658,8 @@
             "icon_background_type": "circle",
             "icon_background": "",
             "icon_color": "#9d2b32",
-            "title": "Quality Assurance",
-            "content": "<p>Each pair is built to ensure the highest quality and performance.</p>"
+            "title": "SATISFAIT OU REMBOURSÉ",
+            "content": "<p>Tous nos produits sont automatiquement garantis 100% satisfait ou remboursé pendant 14 jours.</p>"
           }
         },
         "item_jgpXCJ": {
@@ -532,8 +671,8 @@
             "icon_background_type": "circle",
             "icon_background": "rgba(0,0,0,0)",
             "icon_color": "#9d2b32",
-            "title": "Free Tracked Delivery",
-            "content": "<p>Enjoy complimentary tracked shipping on all orders, ensuring your package arrives safely.</p>"
+            "title": "LIVRAISON GRATUITE",
+            "content": "<p>Nous vous offrons la livraison.</p>"
           }
         },
         "item_wyz4Br": {
@@ -545,8 +684,8 @@
             "icon_background_type": "circle",
             "icon_background": "",
             "icon_color": "#9d2b32",
-            "title": "24/7 Customer Service",
-            "content": "<p>Our dedicated support team is available around the clock to assist you with any inquiries.</p>"
+            "title": "SERVICE CLIENT 6j/7",
+            "content": "<p>Vous avez des questions? Notre équipe vous répond sous 24h.</p>"
           }
         },
         "item_N3UHeW": {
@@ -558,8 +697,8 @@
             "icon_background_type": "circle",
             "icon_background": "",
             "icon_color": "#9d2b32",
-            "title": "Secure Payment",
-            "content": "<p>Your transactions are protected with top-notch encryption and security measures.</p>"
+            "title": "PAIEMENT SÉCURISÉ",
+            "content": "<p>Nous utilisons un système de cryptage au certificat SSL pour sécuriser à 100% les paiements.</p>"
           }
         }
       },
@@ -614,6 +753,8 @@
     "before_after_image_LXganB",
     "press_jBbxEX",
     "scrolling_text_kUPHi8",
+    "featured_product_b8M4CG",
+    "174217307078116510",
     "video_JbJ4Cn",
     "173064299353fe3dc7",
     "text_with_icons_cCHj9F",
