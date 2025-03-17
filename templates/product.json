@@ -110,6 +110,14 @@
             "content": "<p>🛌 <strong>Appliquez</strong> le masque le soir sur peau propre et laissez agir toute la nuit – il fait le travail pendant que vous dormez !</p><p>📅 <strong>Pour des résultats optimaux</strong>, utilisez-le <strong>1 à 2 fois par semaine</strong> pour une peau visiblement plus lisse et éclatante.</p><p>💖 <strong>Un tube = jusqu'à 30 applications</strong>, soit plusieurs semaines de soin intensif pour une peau transformée !</p><p>✨ <strong>Résultat :</strong> Une peau nourrie, repulpée et rayonnante dès les premières utilisation !</p>",
             "page": ""
           }
+        },
+        "collapsible_text_cbD9gq": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "EXPÉDITION ET RETOURS",
+            "content": "<p>🚚 <strong>LIVRAISON GRATUITE</strong> – Votre satisfaction est notre priorité ! Nous prenons en charge les frais de livraison pour vous offrir la meilleure expérience, où que vous soyez.</p><p>💳 <strong>Remboursement Simplifié</strong> – Une fois votre retour reçu, nous procédons à un <strong>remboursement rapide et intégral</strong>, conformément à nos conditions de retour.</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -127,7 +135,8 @@
         "payment_terms",
         "description",
         "collapsible_text_3pdnjV",
-        "collapsible_text_TPbYac"
+        "collapsible_text_TPbYac",
+        "collapsible_text_cbD9gq"
       ],
       "settings": {
         "full_width": true,
