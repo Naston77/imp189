@@ -602,7 +602,7 @@
             "hide_thumbnails": true,
             "product_handle": "",
             "aggregated": false,
-            "data-limit": 4,
+            "data-limit": 9,
             "maxwidth": 1080,
             "is_sample": false
           }
