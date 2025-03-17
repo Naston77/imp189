@@ -14,6 +14,7 @@
       "blocks": {
         "liquid_DJ4MjX": {
           "type": "liquid",
+          "disabled": true,
           "settings": {
             "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Trustpilot Stars</title>\n</head>\n<body>\n    <a target=\"_blank\" rel=\"noopener noreferrer\" style=\"text-decoration: none; display: flex; align-items: center;\">\n        <span style=\"font-size: 15px; font-weight: bold; color: #000;\">4.8</span>\n        <img src=\"https://cdn.shopify.com/s/files/1/0647/2148/6072/files/trustpilot_5_stars.svg?v=1721578152\" alt=\"Trustpilot 5 stars\" style=\"margin: 0 8px; width: 80px; height: auto;\">\n        <span style=\"font-size: 15px; color: #555;\">Loved by our customers !</span>\n    </a>\n</body>\n</html>"
           }
@@ -59,6 +60,7 @@
         },
         "liquid_aDBdFd": {
           "type": "liquid",
+          "disabled": true,
           "settings": {
             "liquid": "<section id=\"spacekris\">\n  <section id=\"lowstockkris\">\n    <article>\n      <b>\n        <ul>\n          <li><span id=\"random-stock\">4</span> items left at this price</li>\n        </ul>\n      </b>\n    </article>\n  </section>\n</section>\n \n<script>\n  // Générer un nombre aléatoire entre 3 et 10\n  var randomStock = Math.floor(Math.random() * 10) + 3;\n \n  // Remplacer le texte dans l'élément avec l'ID 'random-stock'\n  document.getElementById(\"random-stock\").textContent = randomStock;\n</script>\n \n<style>\n/* Conteneur général */\n#spacekris {\n  display: flex;\n  align-items: center;\n  justify-content: flex-start; /* Alignement sur la gauche */\n  margin-left: 0px; /* Pas de décalage supplémentaire */\n  height: 30px; /* Hauteur ajustée */\n}\n \n#lowstockkris {\n  box-shadow: rgba(17, 12, 46, 0.15) 0px 24px 50px 0px;\n  border-radius: 20px;\n  padding: 10px 15px; /* Padding top/bottom de 10px et gauche/droite de 15px */\n  background-color: rgba(255, 0, 0, 0.1); /* Légère transparence pour l'urgence */\n  display: flex;\n  align-items: center;\n  justify-content: flex-start; /* Alignement gauche du texte */\n  height: 30px; /* Hauteur ajustée */\n}\n \n#lowstockkris b {\n  font-size: 12px; /* Taille du texte */\n  color: #AD0000; /* Couleur rouge foncé */\n  font-weight: normal;\n}\n \n/* Suppression de la liste par défaut */\n#lowstockkris ul {\n  list-style: none;\n  padding: 0;\n  margin: 0;\n}\n \n/* Animation pulsation pour le point rouge */\n#lowstockkris li:before {\n  content: '●'; /* Point rouge */\n  margin-right: 5px;\n  color: #AD0000;\n  display: inline-block; /* Bloc en ligne pour l'animation */\n  animation: pulse 1.5s infinite; /* Animation continue */\n}\n \n/* Définition de l'animation de pulsation */\n@keyframes pulse {\n  0% {\n    transform: scale(1);\n    opacity: 1; /* Taille et opacité normales */\n  }\n  50% {\n    transform: scale(1.5); /* Agrandissement du point */\n    opacity: 0.5; /* Réduction de l'opacité */\n  }\n  100% {\n    transform: scale(1); /* Retour à la taille initiale */\n    opacity: 1; /* Opacité normale */\n  }\n}\n</style>"
           }
@@ -92,6 +94,14 @@
         "payment_terms": {
           "type": "payment_terms",
           "settings": {}
+        },
+        "collapsible_text_3pdnjV": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "INGRÉDIENTS",
+            "content": "<p>🌿 <strong>Eau purifiée</strong> – Une base douce et hydratante pour une sensation de fraîcheur immédiate.</p><p>💎 <strong>Collagène hydrolysé</strong> – Raffermit et revitalise la peau en boostant la production naturelle de collagène.</p><p>✨ <strong>Filtrat de ferment Galactomyces</strong> – Un puissant antioxydant qui améliore l’éclat et la texture de la peau.</p><p>💧 <strong>Glycérine</strong> – Hydrate en profondeur et maintient une peau souple et lumineuse.</p><p>🌟 <strong>Niacinamide</strong> – Unifie le teint, resserre les pores et illumine la peau pour un éclat naturel.</p><p>🍃 <strong>Allantoïne</strong> – Apaise, régénère et protège même les peaux les plus sensibles.</p><p>🌊 <strong>Chondrus Crispus (algue rouge)</strong> – Nourrit intensément et infuse la peau en minéraux essentiels.</p><p></p><p></p><p><strong>💖 Résultat ? Une peau plus lisse, plus éclatante et visiblement revitalisée dès la première utilisation !</strong></p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -107,15 +117,16 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "payment_terms"
+        "payment_terms",
+        "collapsible_text_3pdnjV"
       ],
       "settings": {
         "full_width": true,
         "show_fixed_add_to_cart": true,
         "desktop_media_width": 55,
-        "desktop_media_layout": "carousel_thumbnails_left",
-        "mobile_media_size": "expanded",
-        "mobile_carousel_control": "floating_dots",
+        "desktop_media_layout": "carousel_thumbnails_bottom",
+        "mobile_media_size": "contained",
+        "mobile_carousel_control": "thumbnails",
         "enable_video_autoplay": false,
         "enable_video_looping": true,
         "enable_image_zoom": true,
@@ -212,6 +223,7 @@
         "logo_9DeXPg",
         "logo_TGfPGH"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "stack_mobile": true,
@@ -245,6 +257,7 @@
       "block_order": [
         "quote_jgr4eq"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "content_size": "medium",
@@ -303,6 +316,7 @@
         "item_erjJwC",
         "item_WEpPbn"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
@@ -326,28 +340,6 @@
         "background_gradient": "",
         "text_color": ""
       }
-    },
-    "ss_wave_2_nBpHJi": {
-      "type": "ss-wave-2",
-      "settings": {
-        "wave_height": 120,
-        "wave_height_mobile": 80,
-        "wave_animation": true,
-        "wave_rotate": false,
-        "wave_color": "#9d2b32",
-        "background_color": "#ffffff",
-        "background_gradient": "",
-        "border_color": "#000000",
-        "margin_top": 0,
-        "margin_bottom": 0,
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "padding_horizontal": 0,
-        "padding_horizontal_mobile": 0,
-        "full_width": true,
-        "content_width": 120,
-        "border_thickness": 0
-      }
     }
   },
   "order": [
@@ -356,7 +348,6 @@
     "logo_list_WKiakj",
     "press_WGp7QW",
     "images_with_text_scrolling_yUqDYz",
-    "17311443447f1d21d8",
-    "ss_wave_2_nBpHJi"
+    "17311443447f1d21d8"
   ]
 }
