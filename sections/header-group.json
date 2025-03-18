@@ -17,7 +17,7 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Offre exclusive : 1 Acheté = 1 Offert + Livraison gratuite",
+            "text": "Offre exclusive : 1 Acheté + 1 Offert + Livraison gratuite",
             "url": ""
           }
         }
