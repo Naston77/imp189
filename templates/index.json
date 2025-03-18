@@ -127,7 +127,7 @@
         "richtext_PyYHJp": {
           "type": "richtext",
           "settings": {
-            "content": "<h6>Notre masque au bio-collagène est conçu selon une <strong>expertise coréenne avancée</strong> en soins anti-âge. Sa formule innovante, enrichie en particules ultrafines, <strong>pénètre en profondeur</strong> pour une <strong>efficacité optimale</strong>, surpassant les crèmes classiques.</h6><h6><strong>Approuvé par des dermatologues et adopté par plus de 5 000 clientes</strong>, il hydrate intensément, raffermit et lisse la peau pour un teint Glass Skin et rajeuni.</h6>"
+            "content": "<h6>Notre masque au bio-collagène est conçu selon une <strong>expertise coréenne avancée</strong> en soins anti-âge. Sa formule innovante, enrichie en particules ultrafines, <strong>pénètre en profondeur</strong> pour une <strong>efficacité optimale</strong>, surpassant les crèmes classiques.</h6><h6><strong>Approuvé par des dermatologues et adopté par plus de 15 000 clientes</strong>, il hydrate intensément, raffermit et lisse la peau pour un teint Glass Skin et rajeuni.</h6>"
           }
         }
       },
@@ -544,10 +544,10 @@
           "settings": {
             "show_payment_button": false,
             "show_gift_card_recipient": true,
-            "atc_button_background": "#f27676",
+            "atc_button_background": "#f58d8d",
             "atc_button_text_color": "#ffffff",
-            "payment_button_background": "#f27676",
-            "payment_button_text_color": "#f27676"
+            "payment_button_background": "#f58d8d",
+            "payment_button_text_color": "#f58d8d"
           }
         },
         "pickup_availability_b93keT": {
@@ -623,7 +623,6 @@
     },
     "video_JbJ4Cn": {
       "type": "video",
-      "disabled": true,
       "settings": {
         "full_width": false,
         "allow_transparent_header": false,
