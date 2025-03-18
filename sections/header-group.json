@@ -17,7 +17,7 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "En ce moment : -50% + Livraison gratuite",
+            "text": "Offre exclusive : 1 Acheté = 1 Offert + Livraison gratuite",
             "url": ""
           }
         }
@@ -32,7 +32,7 @@
         "text_size": "text-xs",
         "navigation_mode": "arrows",
         "scrolling_speed": 10,
-        "background": "#f27676",
+        "background": "#f58d8d",
         "background_gradient": "",
         "text_color": "#ffffff"
       }
