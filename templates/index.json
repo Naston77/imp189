@@ -14,6 +14,7 @@
       "blocks": {
         "slide-1": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Capture_d_ecran_2025-03-16_032723.png",
             "mobile_image": "shopify://shop_images/Capture_d_ecran_2025-03-16_032723.png",
@@ -33,22 +34,45 @@
             "background": "#ffffff",
             "background_gradient": ""
           }
+        },
+        "image_Nea97G": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-03-21_094646.png",
+            "mobile_image": "shopify://shop_images/Capture_d_ecran_2025-03-21_094646.png",
+            "content_max_width": 840,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
         }
       },
       "block_order": [
-        "slide-1"
+        "slide-1",
+        "image_Nea97G"
       ],
       "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
+        "full_width": false,
+        "allow_transparent_header": true,
         "show_initial_transition": false,
         "image_size": "auto",
         "controls_type": "numbers",
         "transition_type": "fade_with_text",
         "autoplay": false,
         "cycle_speed": 6,
-        "background": "#f2f2f2",
-        "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
+        "background": "#ffffff",
+        "background_gradient": ""
       }
     },
     "logo_list_AGRKWH": {

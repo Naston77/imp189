@@ -26,13 +26,13 @@
         "message"
       ],
       "settings": {
-        "enable_sticky": true,
+        "enable_sticky": false,
         "autoplay": false,
         "cycle_speed": 10,
-        "text_size": "text-xs",
+        "text_size": "text-xxs",
         "navigation_mode": "arrows",
         "scrolling_speed": 10,
-        "background": "#f58d8d",
+        "background": "#1a1a1a",
         "background_gradient": "",
         "text_color": "#ffffff"
       }
@@ -42,8 +42,8 @@
       "settings": {
         "enable_sticky": false,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/Biollance_3.png",
-        "logo_max_width": 195,
+        "logo": "shopify://shop_images/Biollance_2_bec4e5df-88f9-4116-bcfb-12aa814fe24f.png",
+        "logo_max_width": 160,
         "logo_mobile_max_width": 130,
         "menu": "main-menu",
         "sidebar_menu": "main-menu",
@@ -57,7 +57,7 @@
         "show_country_flag": false,
         "show_country_name": false,
         "transparent_header_text_color": "#1a1a1a",
-        "reduce_padding": false,
+        "reduce_padding": true,
         "background_opacity": 0,
         "background_blur_radius": 0
       }
