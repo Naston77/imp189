@@ -27,8 +27,8 @@
           "type": "links",
           "settings": {
             "menu": "footer",
-            "show_menu_title": false,
-            "menu_title": ""
+            "show_menu_title": true,
+            "menu_title": "Informations"
           }
         },
         "text": {
