@@ -19,17 +19,8 @@
           "settings": {
             "image_width": 150,
             "heading_size": "h3",
-            "title": "Biollance™",
-            "content": "<p>Soyez les premiers à être informé de nos offres et exclusivités.</p>"
-          }
-        },
-        "text": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "title": "Contact us",
-            "content": "<p>hello@kinfoot.com</p><p>Our mission is to support people who are committed to aging on their own terms, staying active and agile. We know our customers value quality and durability over trends, which is why every pair of Kindfoot shoes is crafted with advanced orthopedic support, anti-slip technology, and long-lasting materials that stand up to the demands of daily life.</p>",
-            "enable_follow_on_shop": false
+            "title": "Inscrivez-vous à notre newsletter",
+            "content": "<p>Inscrivez-vous avec votre adresse email pour recevoir des actualités et des offres exclusives.</p>"
           }
         },
         "links": {
@@ -39,15 +30,23 @@
             "show_menu_title": false,
             "menu_title": ""
           }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "title": "Nous contactez",
+            "content": "<p><strong>Service client: </strong>support@biollance.com</p><p><strong>Horaires: </strong>Du Lun au Ven de 9h à 12h et de 13h à 18h / Sam et Dim de 10h à 12h</p>",
+            "enable_follow_on_shop": false
+          }
         }
       },
       "block_order": [
         "newsletter",
-        "text",
-        "links"
+        "links",
+        "text"
       ],
       "settings": {
-        "show_social_media": false,
+        "show_social_media": true,
         "show_payment_icons": true,
         "show_country_selector": true,
         "show_country_flag": true,
