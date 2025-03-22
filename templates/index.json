@@ -375,6 +375,7 @@
     },
     "before_after_image_LXganB": {
       "type": "before-after-image",
+      "disabled": true,
       "settings": {
         "full_width": false,
         "subheading": "",
