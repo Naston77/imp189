@@ -14,7 +14,6 @@
       "blocks": {
         "slide-1": {
           "type": "image",
-          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Capture_d_ecran_2025-03-16_032723.png",
             "mobile_image": "shopify://shop_images/Capture_d_ecran_2025-03-16_032723.png",
@@ -37,6 +36,7 @@
         },
         "image_Nea97G": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Capture_d_ecran_2025-03-21_094646.png",
             "mobile_image": "shopify://shop_images/Capture_d_ecran_2025-03-21_094646.png",
