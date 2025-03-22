@@ -81,28 +81,32 @@
         "logo_cCgkMd": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/1200px-VOGUE_revista_-_logo.webp",
+            "logo_width": 300,
             "link": ""
           }
         },
         "logo_YXrXKE": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/Comopolitan_Magazine_Logo_svg.webp",
+            "logo_width": 300,
             "link": ""
           }
         },
         "logo_gRg9Wf": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/Marie_Claire_Magazine_logo.svg_1.webp",
+            "logo_width": 300,
             "link": ""
           }
         },
         "logo_pwmFtm": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/Elle_1.png",
+            "logo_width": 300,
             "link": ""
           }
         }
@@ -113,21 +117,21 @@
         "logo_gRg9Wf",
         "logo_pwmFtm"
       ],
-      "disabled": true,
+      "custom_css": [],
       "settings": {
         "full_width": true,
         "stack_mobile": true,
-        "title": "Featured on",
+        "title": "Vu sur",
         "content": "",
         "text_alignment": "center",
-        "items_per_row": 7,
+        "items_per_row": 4,
         "background": "#ffffff",
         "background_gradient": "",
         "text_color": "#000000",
-        "heading_color": "#000000",
+        "heading_color": "#1a1a1a",
         "heading_gradient": "",
-        "logo_item_background": "",
-        "logo_item_border": ""
+        "logo_item_background": "#ffffff",
+        "logo_item_border": "#ffffff"
       }
     },
     "rich_text_gqhQqK": {
@@ -167,73 +171,6 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
-      }
-    },
-    "rich_text_Fp96EW": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_W8MNfx": {
-          "type": "heading",
-          "settings": {
-            "text": "Vu sur :",
-            "heading_tag": "h4",
-            "text_color": "#1a1a1a",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_W8MNfx"
-      ],
-      "settings": {
-        "full_width": false,
-        "content_width": "medium",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "slideshow_TGz8C8": {
-      "type": "slideshow",
-      "blocks": {
-        "image_wycM6d": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-03-16_032631.png",
-            "mobile_image": "shopify://shop_images/Capture_d_ecran_2025-03-16_032631.png",
-            "content_max_width": 640,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "",
-            "title": "",
-            "heading_tag": "h0",
-            "button_text": "",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30,
-            "background": "#ffffff",
-            "background_gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_wycM6d"
-      ],
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": true,
-        "show_initial_transition": false,
-        "image_size": "auto",
-        "controls_type": "none",
-        "transition_type": "fade",
-        "autoplay": false,
-        "cycle_speed": 6,
-        "background": "#ffffff",
-        "background_gradient": ""
       }
     },
     "slideshow_kQHPcD": {
@@ -858,8 +795,6 @@
     "slideshow",
     "logo_list_AGRKWH",
     "rich_text_gqhQqK",
-    "rich_text_Fp96EW",
-    "slideshow_TGz8C8",
     "slideshow_kQHPcD",
     "text_with_icons_HyEw8w",
     "logo_list_VrWbUQ",
