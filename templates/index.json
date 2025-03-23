@@ -155,7 +155,7 @@
         "richtext_PyYHJp": {
           "type": "richtext",
           "settings": {
-            "content": "<h6>Avec une concentration incroyable de 670 000 ppm de collagène notre masque est conçu selon une <strong>expertise coréenne avancée</strong> en soins anti-âge. Sa formule innovante, enrichie en particules ultrafines, <strong>pénètre en profondeur</strong> pour une <strong>efficacité optimale</strong>, surpassant les crèmes classiques.</h6><h6><strong>Approuvé par des dermatologues et adopté par plus de 15 000 clientes</strong>, il hydrate intensément, raffermit et lisse la peau pour un teint éclatant et rajeuni.</h6>"
+            "content": "<h6>Avec une concentration incroyable de 670 000 ppm de collagène hydrolysé notre masque est conçu selon une <strong>expertise coréenne avancée</strong> en soins anti-âge. Sa formule innovante, enrichie en particules ultrafines, <strong>pénètre en profondeur</strong> pour une <strong>efficacité optimale</strong>, surpassant les crèmes classiques.</h6><h6><strong>Approuvé par des dermatologues et adopté par plus de 15 000 clientes</strong>, il hydrate intensément, raffermit et lisse la peau pour un teint éclatant et rajeuni.</h6>"
           }
         }
       },
@@ -324,7 +324,7 @@
       "settings": {
         "full_width": true,
         "stack_on_mobile": true,
-        "title": "5 Raisons d'Adopter le Masque au Collagène",
+        "title": "5 Raisons d'Adopter le Masque au Collagène hydrolysé",
         "heading_tag": "h5",
         "text_alignment": "center",
         "icon_spacing": "small",
