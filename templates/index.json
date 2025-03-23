@@ -14,6 +14,7 @@
       "blocks": {
         "slide-1": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Capture_d_ecran_2025-03-16_032723.png",
             "mobile_image": "shopify://shop_images/Capture_d_ecran_2025-03-16_032723.png",
@@ -51,6 +52,50 @@
             "text_color": "#ffffff",
             "button_background": "#ffffff",
             "button_text_color": "#000000",
+            "overlay_color": "#c71515",
+            "overlay_opacity": 17,
+            "background": "",
+            "background_gradient": ""
+          }
+        },
+        "image_jn33yH": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-03-24_000931.png",
+            "mobile_image": "shopify://shop_images/Capture_d_ecran_2025-03-24_000931.png",
+            "content_max_width": 820,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#c71515",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        },
+        "image_Fx3eYw": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1724783758.png",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-end-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h2",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#c71515",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
             "overlay_color": "#000000",
             "overlay_opacity": 0,
             "background": "",
@@ -60,7 +105,9 @@
       },
       "block_order": [
         "slide-1",
-        "image_Nea97G"
+        "image_Nea97G",
+        "image_jn33yH",
+        "image_Fx3eYw"
       ],
       "settings": {
         "full_width": true,
