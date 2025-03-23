@@ -390,6 +390,99 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "text_with_icons_mhb8mw": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_cAH6BV": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/mi_pdp-reason1_200x_e45fbd57-2b47-4fe8-a200-f267de72663c.svg",
+            "mobile_icon_width": 80,
+            "icon_width": 80,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "",
+            "content": "<p><strong>Économisez du temps et de l’argent. </strong>Un soin efficace et ciblé, sans dépenser en produits inefficaces ou en rendez-vous en institut.</p>"
+          }
+        },
+        "item_DDmUhq": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/Capture_d_ecran_2025-03-16_235331.png",
+            "mobile_icon_width": 80,
+            "icon_width": 80,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "",
+            "content": "<p><strong>Une solution anti-âge puissante et naturelle</strong>. Enrichi en collagène, il raffermit la peau, lisse les rides et booste l’éclat du teint.</p>"
+          }
+        },
+        "item_FWQFYa": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/mi_pdp-reason6_200x_988d6a8f-0e0a-4f13-b28c-fce2d6424559.svg",
+            "mobile_icon_width": 80,
+            "icon_width": 80,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "",
+            "content": "<p><strong>Une technologie coréenne avancée. </strong>Formule qui pénètre plus profondément que les crèmes classiques, résultats dès la première application.</p>"
+          }
+        },
+        "item_RdTDRG": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/mi_pdp-reason3_200x_5229bdea-f8e7-4fe0-968a-a43d4624bbf6.svg",
+            "mobile_icon_width": 80,
+            "icon_width": 80,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "",
+            "content": "<p><strong>Un coup d’éclat avant chaque occasion. </strong>Idéal pour revitaliser une peau terne et fatiguée avant un événement.</p>"
+          }
+        },
+        "item_iAkayP": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/1_eba0519b-9a57-4084-84c8-e2e57863ebc9.png",
+            "mobile_icon_width": 80,
+            "icon_width": 80,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "",
+            "content": "<p><strong>Application rapide et agréable. </strong>Facile à appliquer, ce masque transforme votre routine en un véritable moment de détente.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_cAH6BV",
+        "item_DDmUhq",
+        "item_FWQFYa",
+        "item_RdTDRG",
+        "item_iAkayP"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": true,
+        "title": "5 Raisons d'Adopter le Masque au Collagène",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "small",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -399,6 +492,7 @@
     "press_WGp7QW",
     "images_with_text_scrolling_yUqDYz",
     "17311443447f1d21d8",
-    "17422282715f361fac"
+    "17422282715f361fac",
+    "text_with_icons_mhb8mw"
   ]
 }
