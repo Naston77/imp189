@@ -99,6 +99,7 @@
         },
         "collapsible_text_3pdnjV": {
           "type": "collapsible_text",
+          "disabled": true,
           "settings": {
             "title": "INGRÉDIENTS",
             "content": "<p>🌿 <strong>Eau purifiée</strong> – Une base douce et hydratante pour une sensation de fraîcheur immédiate.</p><p>💎 <strong>Collagène hydrolysé</strong> – Raffermit et revitalise la peau en boostant la production naturelle de collagène.</p><p>✨ <strong>Filtrat de ferment Galactomyces</strong> – Un puissant antioxydant qui améliore l’éclat et la texture de la peau.</p><p>💧 <strong>Glycérine</strong> – Hydrate en profondeur et maintient une peau souple et lumineuse.</p><p>🌟 <strong>Niacinamide</strong> – Unifie le teint, resserre les pores et illumine la peau pour un éclat naturel.</p><p>🍃 <strong>Allantoïne</strong> – Apaise, régénère et protège même les peaux les plus sensibles.</p><p>🌊 <strong>Chondrus Crispus (algue rouge)</strong> – Nourrit intensément et infuse la peau en minéraux essentiels.</p><p></p><p></p><p><strong>💖 Résultat ? Une peau plus lisse, plus éclatante et visiblement revitalisée dès la première utilisation !</strong></p>",
@@ -107,6 +108,7 @@
         },
         "collapsible_text_TPbYac": {
           "type": "collapsible_text",
+          "disabled": true,
           "settings": {
             "title": "CONSEIL D'UTILISATION",
             "content": "<p>🛌 <strong>Appliquez</strong> le masque le soir sur peau propre et laissez agir toute la nuit – il fait le travail pendant que vous dormez !</p><p>📅 <strong>Pour des résultats optimaux</strong>, utilisez-le <strong>1 à 2 fois par semaine</strong> pour une peau visiblement plus lisse et éclatante.</p><p>💖 <strong>Un tube = jusqu'à 30 applications</strong>, soit plusieurs semaines de soin intensif pour une peau transformée !</p><p>✨ <strong>Résultat :</strong> Une peau nourrie, repulpée et rayonnante dès les premières utilisation !</p>",
@@ -144,7 +146,7 @@
         "full_width": true,
         "show_fixed_add_to_cart": true,
         "desktop_media_width": 55,
-        "desktop_media_layout": "carousel_thumbnails_bottom",
+        "desktop_media_layout": "grid_highlight",
         "mobile_media_size": "contained",
         "mobile_carousel_control": "thumbnails",
         "enable_video_autoplay": false,
