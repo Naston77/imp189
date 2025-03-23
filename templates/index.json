@@ -712,7 +712,7 @@
             "icon_background": "",
             "icon_color": "#c71515",
             "title": "SATISFAIT OU REMBOURSÉ",
-            "content": "<p>Tous nos produits sont automatiquement garantis 100% satisfait ou remboursé pendant 14 jours.</p>"
+            "content": ""
           }
         },
         "item_jgpXCJ": {
@@ -725,7 +725,7 @@
             "icon_background": "rgba(0,0,0,0)",
             "icon_color": "#c71515",
             "title": "LIVRAISON GRATUITE",
-            "content": "<p>Nous vous offrons la livraison.</p>"
+            "content": ""
           }
         },
         "item_wyz4Br": {
@@ -738,7 +738,7 @@
             "icon_background": "",
             "icon_color": "#c71515",
             "title": "SERVICE CLIENT 7j/7",
-            "content": "<p>Vous avez des questions? Notre équipe vous répond sous 24h.</p>"
+            "content": ""
           }
         },
         "item_N3UHeW": {
@@ -751,7 +751,7 @@
             "icon_background": "",
             "icon_color": "#c71515",
             "title": "PAIEMENT SÉCURISÉ",
-            "content": "<p>Nous utilisons un système de cryptage au certificat SSL pour sécuriser à 100% les paiements.</p>"
+            "content": ""
           }
         }
       },
