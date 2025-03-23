@@ -63,8 +63,8 @@
         "image_Nea97G"
       ],
       "settings": {
-        "full_width": false,
-        "allow_transparent_header": true,
+        "full_width": true,
+        "allow_transparent_header": false,
         "show_initial_transition": false,
         "image_size": "auto",
         "controls_type": "numbers",
@@ -202,6 +202,7 @@
       "block_order": [
         "image_mtPrFT"
       ],
+      "disabled": true,
       "settings": {
         "full_width": false,
         "allow_transparent_header": false,
