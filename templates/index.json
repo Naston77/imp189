@@ -525,17 +525,19 @@
         },
         "collapsible_text_4ti93n": {
           "type": "collapsible_text",
+          "disabled": true,
           "settings": {
             "title": "Ingrédients",
-            "content": "<p>🌿 <strong>Eau purifiée</strong> – Une base douce et hydratante pour une sensation de fraîcheur immédiate.</p><p>💎 <strong>Collagène hydrolysé</strong> – Raffermit et revitalise la peau en boostant la production naturelle de collagène.</p><p>✨ <strong>Filtrat de ferment Galactomyces</strong> – Un puissant antioxydant qui améliore l’éclat et la texture de la peau.</p><p>💧 <strong>Glycérine</strong> – Hydrate en profondeur et maintient une peau souple et lumineuse.</p><p>🌟 <strong>Niacinamide</strong> – Unifie le teint, resserre les pores et illumine la peau pour un éclat naturel.</p><p>🍃 <strong>Allantoïne</strong> – Apaise, régénère et protège même les peaux les plus sensibles.</p><p>🌊 <strong>Chondrus Crispus (algue rouge)</strong> – Nourrit intensément et infuse la peau en minéraux essentiels.</p><p></p><p></p><p><strong>💖 Résultat ? Une peau plus lisse, plus éclatante et visiblement revitalisée dès la première utilisation !</strong></p>",
+            "content": "<h6>Collagène hydrolysé, Niacinamide, Huile de graines de jojoba (Simmondsia Chinensis), Alginate, Triglycéride caprylique/caprique, Polysorbate 80, Polyglycéryl-10 oléate, Pullulane, Extrait de Laminaria Japonica, Extrait de gelée royale, Extrait de Centella Asiatica, Extrait de collagène hydrolysé, Extrait de propolis, Extrait de racine d'Anemarrhena Asphodeloides, Extrait de Tuber Magnatum, Collagène, Huile d'onagre (Oenothera Biennis), Hyaluronate de sodium, Huile d'avocat (Persea Gratissima), Huile de pépins de raisin (Vitis Vinifera), Huile de graines de tournesol (Helianthus Annuus), Collagène soluble, Monostéarate de glycéryle, Panthénol, Gomme de cellulose, Acétate de tocophérol, Allantoïne, Adénosine, Madecassoside, Butylène glycol, Glutathion, Lysat de fermentation de Lactobacillus, Bêta-glucane, Lysat de fermentation de Bifida, Acide tranexamique, Polyisobutène hydrogéné, Tétra-isostéarate de pentaérythritol, Polypeptide d'arginine/lysine, Extensine hydrolysée, Glycérine, Fermentation de Lactobacillus, Glucose, Filtrat de fermentation de racine de radis (Leuconostoc/Radish Root), Mannose, Sulfate de chondroïtine sodique, Acide sorbique, Protéoglycane soluble, Silice diméthylsilylate, Atélo-collagène, Élastine hydrolysée, Éthylhexylglycérine, Pentylène glycol, Bakuchiol, Parfum.</h6><p></p>",
             "page": ""
           }
         },
         "collapsible_text_TpUDiJ": {
           "type": "collapsible_text",
+          "disabled": true,
           "settings": {
             "title": "Conseil d'utilisation",
-            "content": "<p>🛌 <strong>Appliquez</strong> le masque le soir sur peau propre et laissez agir toute la nuit – il fait le travail pendant que vous dormez !</p><p>📅 <strong>Pour des résultats optimaux</strong>, utilisez-le <strong>1 à 2 fois par semaine</strong> pour une peau visiblement plus lisse et éclatante.</p><p>💖 <strong>Un tube = jusqu'à 30 applications</strong>, soit plusieurs semaines de soin intensif pour une peau transformée !</p><p>✨ <strong>Résultat :</strong> Une peau nourrie, repulpée et rayonnante dès les premières utilisation !</p>",
+            "content": "<p>🛌 <strong>Appliquez</strong> le masque sur peau propre et laissez agir toute la nuit – il fait le travail pendant que vous dormez !</p><p>📅 <strong>Pour des résultats optimaux</strong>, utilisez-le <strong>1 à 2 fois par semaine</strong> pour une peau visiblement plus lisse et éclatante.</p><p>💖 <strong>Un tube = jusqu'à 30 applications</strong>, soit plusieurs semaines de soin intensif pour une peau transformée !</p><p>✨ <strong>Résultat :</strong> Une peau nourrie, repulpée et rayonnante dès les premières utilisation !</p>",
             "page": ""
           }
         }
