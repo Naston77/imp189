@@ -573,6 +573,7 @@
         },
         "collapsible_text_4ti93n": {
           "type": "collapsible_text",
+          "disabled": true,
           "settings": {
             "title": "Ingrédients",
             "content": "<p>🌿 <strong>Eau purifiée</strong> – Une base douce et hydratante pour une sensation de fraîcheur immédiate.<br/><br/>💎 <strong>Collagène hydrolysé</strong> – Raffermit et revitalise la peau en boostant la production naturelle de collagène.<br/><br/>🌟 <strong>Niacinamide</strong> – Unifie le teint, resserre les pores et illumine la peau pour un éclat naturel.</p><p>🍃 <strong>Extrait de gelée royale</strong> – Un puissant revitalisant qui nourrit la peau, la rendant plus douce et éclatante.</p><p>✨ <strong>Extrait de Centella Asiatica</strong> – Apaise et régénère la peau, favorisant une réparation rapide et une meilleure cicatrisation.</p><p>🌱 <strong>Extrait de propolis</strong> – Un antioxydant naturel qui protège la peau et lutte contre les agressions extérieures.<br/><br/>💧 <strong>Glycérine</strong> – Hydrate en profondeur et maintient une peau souple et lumineuse.<br/><br/>🌊 <strong>Hyaluronate de sodium</strong> – Attire l'humidité et l'incorpore dans la peau pour une hydratation intense et durable.<br/><br/>💖 <strong>Madecassoside</strong> – Propriétés réparatrices et anti-inflammatoires, excellent pour apaiser et renforcer la barrière cutanée.<br/><br/><strong>Résultat ?</strong> Une peau plus lisse, plus éclatante, hydratée et visiblement revitalisée dès la première utilisation !</p>",
