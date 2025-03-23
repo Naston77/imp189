@@ -375,14 +375,13 @@
     },
     "before_after_image_LXganB": {
       "type": "before-after-image",
-      "disabled": true,
       "settings": {
         "full_width": false,
         "subheading": "",
         "title": "",
         "content": "",
-        "before_image": "shopify://shop_images/avant_01ac9f4b-20c2-4a6d-9f24-862235dc7b0e.jpg",
-        "after_image": "shopify://shop_images/apres_60a4a6cb-7cac-4d5c-ab55-3b7296fbb974.jpg",
+        "before_image": "shopify://shop_images/Capture_d_ecran_2025-03-23_204113.png",
+        "after_image": "shopify://shop_images/Capture_d_ecran_2025-03-23_204129.png",
         "expand_image": false,
         "text_position": "center",
         "before_after_text_position": "top",
