@@ -155,7 +155,7 @@
         "richtext_PyYHJp": {
           "type": "richtext",
           "settings": {
-            "content": "<h6>Notre masque au bio-collagène est conçu selon une <strong>expertise coréenne avancée</strong> en soins anti-âge. Sa formule innovante, enrichie en particules ultrafines, <strong>pénètre en profondeur</strong> pour une <strong>efficacité optimale</strong>, surpassant les crèmes classiques.</h6><h6><strong>Approuvé par des dermatologues et adopté par plus de 15 000 clientes</strong>, il hydrate intensément, raffermit et lisse la peau pour un teint Glass Skin et rajeuni.</h6>"
+            "content": "<h6>Avec une concentration incroyable de 670 000 ppm de collagène notre masque est conçu selon une <strong>expertise coréenne avancée</strong> en soins anti-âge. Sa formule innovante, enrichie en particules ultrafines, <strong>pénètre en profondeur</strong> pour une <strong>efficacité optimale</strong>, surpassant les crèmes classiques.</h6><h6><strong>Approuvé par des dermatologues et adopté par plus de 15 000 clientes</strong>, il hydrate intensément, raffermit et lisse la peau pour un teint éclatant et rajeuni.</h6>"
           }
         }
       },
@@ -214,6 +214,30 @@
         "cycle_speed": 4,
         "background": "#ffffff",
         "background_gradient": ""
+      }
+    },
+    "before_after_image_LXganB": {
+      "type": "before-after-image",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "before_image": "shopify://shop_images/Capture_d_ecran_2025-03-23_204113_2d71a560-38be-480a-9b0b-28146c93c537.png",
+        "after_image": "shopify://shop_images/Capture_d_ecran_2025-03-23_204129_c119c24e-547d-40b0-92ae-a8b510829879.png",
+        "expand_image": false,
+        "text_position": "center",
+        "before_after_text_position": "top",
+        "before_text": "Avant",
+        "after_text": "Après",
+        "drag_initial_position": 50,
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "#000000",
+        "before_text_color": "#ffffff",
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#000000",
+        "drag_cursor_color": "#c71515"
       }
     },
     "text_with_icons_HyEw8w": {
@@ -374,30 +398,6 @@
         "logo_item_border": ""
       }
     },
-    "before_after_image_LXganB": {
-      "type": "before-after-image",
-      "settings": {
-        "full_width": false,
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "before_image": "shopify://shop_images/Capture_d_ecran_2025-03-23_204113.png",
-        "after_image": "shopify://shop_images/Capture_d_ecran_2025-03-23_204129.png",
-        "expand_image": false,
-        "text_position": "center",
-        "before_after_text_position": "top",
-        "before_text": "Avant",
-        "after_text": "Après",
-        "drag_initial_position": 50,
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": "#000000",
-        "before_text_color": "#ffffff",
-        "after_text_color": "#ffffff",
-        "drag_cursor_background": "#000000",
-        "drag_cursor_color": "#9d2b32"
-      }
-    },
     "press_jBbxEX": {
       "type": "press",
       "blocks": {
@@ -416,6 +416,7 @@
       "block_order": [
         "quote_C7zw7z"
       ],
+      "disabled": true,
       "settings": {
         "full_width": false,
         "content_size": "large",
@@ -797,9 +798,9 @@
     "logo_list_AGRKWH",
     "rich_text_gqhQqK",
     "slideshow_kQHPcD",
+    "before_after_image_LXganB",
     "text_with_icons_HyEw8w",
     "logo_list_VrWbUQ",
-    "before_after_image_LXganB",
     "press_jBbxEX",
     "scrolling_text_kUPHi8",
     "featured_product_b8M4CG",
