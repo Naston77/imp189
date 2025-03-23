@@ -140,7 +140,7 @@
         "subheading_YRmYre": {
           "type": "subheading",
           "settings": {
-            "text": "Secret de beauté Coréen"
+            "text": ""
           }
         },
         "heading_4m6hjn": {
@@ -506,10 +506,10 @@
           "settings": {
             "show_payment_button": false,
             "show_gift_card_recipient": true,
-            "atc_button_background": "#f58d8d",
+            "atc_button_background": "#c71515",
             "atc_button_text_color": "#ffffff",
-            "payment_button_background": "#f58d8d",
-            "payment_button_text_color": "#f58d8d"
+            "payment_button_background": "#c71515",
+            "payment_button_text_color": "#c71515"
           }
         },
         "pickup_availability_b93keT": {
@@ -707,7 +707,7 @@
             "icon_width": 32,
             "icon_background_type": "circle",
             "icon_background": "",
-            "icon_color": "#9d2b32",
+            "icon_color": "#c71515",
             "title": "SATISFAIT OU REMBOURSÉ",
             "content": "<p>Tous nos produits sont automatiquement garantis 100% satisfait ou remboursé pendant 14 jours.</p>"
           }
@@ -720,7 +720,7 @@
             "icon_width": 32,
             "icon_background_type": "circle",
             "icon_background": "rgba(0,0,0,0)",
-            "icon_color": "#9d2b32",
+            "icon_color": "#c71515",
             "title": "LIVRAISON GRATUITE",
             "content": "<p>Nous vous offrons la livraison.</p>"
           }
@@ -733,7 +733,7 @@
             "icon_width": 32,
             "icon_background_type": "circle",
             "icon_background": "",
-            "icon_color": "#9d2b32",
+            "icon_color": "#c71515",
             "title": "SERVICE CLIENT 7j/7",
             "content": "<p>Vous avez des questions? Notre équipe vous répond sous 24h.</p>"
           }
@@ -746,7 +746,7 @@
             "icon_width": 32,
             "icon_background_type": "circle",
             "icon_background": "",
-            "icon_color": "#9d2b32",
+            "icon_color": "#c71515",
             "title": "PAIEMENT SÉCURISÉ",
             "content": "<p>Nous utilisons un système de cryptage au certificat SSL pour sécuriser à 100% les paiements.</p>"
           }
