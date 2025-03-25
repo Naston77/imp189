@@ -63,13 +63,6 @@
           "disabled": true,
           "settings": {}
         },
-        "liquid_aDBdFd": {
-          "type": "liquid",
-          "disabled": true,
-          "settings": {
-            "liquid": "<section id=\"spacekris\">\n  <section id=\"lowstockkris\">\n    <article>\n      <b>\n        <ul>\n          <li><span id=\"random-stock\">4</span> items left at this price</li>\n        </ul>\n      </b>\n    </article>\n  </section>\n</section>\n \n<script>\n  // Générer un nombre aléatoire entre 3 et 10\n  var randomStock = Math.floor(Math.random() * 10) + 3;\n \n  // Remplacer le texte dans l'élément avec l'ID 'random-stock'\n  document.getElementById(\"random-stock\").textContent = randomStock;\n</script>\n \n<style>\n/* Conteneur général */\n#spacekris {\n  display: flex;\n  align-items: center;\n  justify-content: flex-start; /* Alignement sur la gauche */\n  margin-left: 0px; /* Pas de décalage supplémentaire */\n  height: 30px; /* Hauteur ajustée */\n}\n \n#lowstockkris {\n  box-shadow: rgba(17, 12, 46, 0.15) 0px 24px 50px 0px;\n  border-radius: 20px;\n  padding: 10px 15px; /* Padding top/bottom de 10px et gauche/droite de 15px */\n  background-color: rgba(255, 0, 0, 0.1); /* Légère transparence pour l'urgence */\n  display: flex;\n  align-items: center;\n  justify-content: flex-start; /* Alignement gauche du texte */\n  height: 30px; /* Hauteur ajustée */\n}\n \n#lowstockkris b {\n  font-size: 12px; /* Taille du texte */\n  color: #AD0000; /* Couleur rouge foncé */\n  font-weight: normal;\n}\n \n/* Suppression de la liste par défaut */\n#lowstockkris ul {\n  list-style: none;\n  padding: 0;\n  margin: 0;\n}\n \n/* Animation pulsation pour le point rouge */\n#lowstockkris li:before {\n  content: '●'; /* Point rouge */\n  margin-right: 5px;\n  color: #AD0000;\n  display: inline-block; /* Bloc en ligne pour l'animation */\n  animation: pulse 1.5s infinite; /* Animation continue */\n}\n \n/* Définition de l'animation de pulsation */\n@keyframes pulse {\n  0% {\n    transform: scale(1);\n    opacity: 1; /* Taille et opacité normales */\n  }\n  50% {\n    transform: scale(1.5); /* Agrandissement du point */\n    opacity: 0.5; /* Réduction de l'opacité */\n  }\n  100% {\n    transform: scale(1); /* Retour à la taille initiale */\n    opacity: 1; /* Opacité normale */\n  }\n}\n</style>"
-          }
-        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -79,6 +72,12 @@
             "swatch_selector_style": "swatch",
             "variant_image_options": "",
             "size_chart_page": ""
+          }
+        },
+        "liquid_aDBdFd": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<section id=\"spacekris\">\n  <section id=\"lowstockkris\">\n    <article>\n      <b>\n        <ul>\n          <li>Plus que <span id=\"random-stock\">4</span> en stock !</li>\n        </ul>\n      </b>\n    </article>\n  </section>\n</section>\n \n<script>\n  // Générer un nombre aléatoire entre 4 et 6\n  var randomStock = Math.floor(Math.random() * 10) + 3;\n \n  // Remplacer le texte dans l'élément avec l'ID 'random-stock'\n  document.getElementById(\"random-stock\").textContent = randomStock;\n</script>\n \n<style>\n/* Conteneur général */\n#spacekris {\n  display: flex;\n  align-items: center;\n  justify-content: flex-start; /* Alignement sur la gauche */\n  margin-left: 0px; /* Pas de décalage supplémentaire */\n  height: 30px; /* Hauteur ajustée */\n}\n \n#lowstockkris {\n  box-shadow: rgba(17, 12, 46, 0.15) 0px 24px 50px 0px;\n  border-radius: 20px;\n  padding: 10px 15px; /* Padding top/bottom de 10px et gauche/droite de 15px */\n  background-color: rgba(255, 0, 0, 0.1); /* Légère transparence pour l'urgence */\n  display: flex;\n  align-items: center;\n  justify-content: flex-start; /* Alignement gauche du texte */\n  height: 30px; /* Hauteur ajustée */\n}\n \n#lowstockkris b {\n  font-size: 12px; /* Taille du texte */\n  color: #AD0000; /* Couleur rouge foncé */\n  font-weight: normal;\n}\n \n/* Suppression de la liste par défaut */\n#lowstockkris ul {\n  list-style: none;\n  padding: 0;\n  margin: 0;\n}\n \n/* Animation pulsation pour le point rouge */\n#lowstockkris li:before {\n  content: '●'; /* Point rouge */\n  margin-right: 5px;\n  color: #AD0000;\n  display: inline-block; /* Bloc en ligne pour l'animation */\n  animation: pulse 1.5s infinite; /* Animation continue */\n}\n \n/* Définition de l'animation de pulsation */\n@keyframes pulse {\n  0% {\n    transform: scale(1);\n    opacity: 1; /* Taille et opacité normales */\n  }\n  50% {\n    transform: scale(1.5); /* Agrandissement du point */\n    opacity: 0.5; /* Réduction de l'opacité */\n  }\n  100% {\n    transform: scale(1); /* Retour à la taille initiale */\n    opacity: 1; /* Opacité normale */\n  }\n}\n</style>"
           }
         },
         "quantity_selector": {
@@ -149,8 +148,8 @@
         "image_Fqch4T",
         "loox_reviews_loox_rating_rKCenG",
         "separator",
-        "liquid_aDBdFd",
         "variant_picker",
+        "liquid_aDBdFd",
         "quantity_selector",
         "buy_buttons",
         "payment_terms",
