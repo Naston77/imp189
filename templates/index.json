@@ -9,164 +9,88 @@
  */
 {
   "sections": {
-    "slideshow_dpDW4j": {
-      "type": "slideshow",
-      "blocks": {
-        "image_VTGhtr": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/Banniere_Homepage_1200x700_60c773e8-4104-4360-bd24-d666df2705d8.webp",
-            "content_max_width": 400,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "",
-            "title": "",
-            "heading_tag": "h2",
-            "button_text": "",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0,
-            "background": "",
-            "background_gradient": ""
-          }
-        },
-        "image_hVgfPF": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/CHAQUE_SECONDES_COMPTENT_6.png",
-            "mobile_image": "shopify://shop_images/CHAQUE_SECONDES_COMPTENT_5.png",
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-end-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "",
-            "title": "",
-            "heading_tag": "h4",
-            "button_text": "",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#1a1a1a",
-            "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0,
-            "background": "",
-            "background_gradient": ""
-          }
-        },
-        "image_T4MXrn": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Plus_de_50_000_clients_satisfaits.png",
-            "mobile_image": "shopify://shop_images/Plus_de_50_000_clients_satisfaits.png",
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-end-center text-center",
-            "desktop_text_position": "sm:place-self-end-center sm:text-center",
-            "subheading": "",
-            "title": "",
-            "heading_tag": "h0",
-            "button_text": "",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0,
-            "background": "",
-            "background_gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_VTGhtr",
-        "image_hVgfPF",
-        "image_T4MXrn"
-      ],
-      "name": "Slideshow",
+    "video_En6bxX": {
+      "type": "video",
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
-        "show_initial_transition": false,
-        "image_size": "auto",
-        "controls_type": "none",
-        "transition_type": "fade_with_text",
-        "autoplay": false,
-        "cycle_speed": 6,
-        "background": "#f2f2f2",
-        "background_gradient": ""
+        "autoplay": true,
+        "video_size": "auto",
+        "video": "",
+        "mobile_video": "",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     },
-    "logo_list_xwdYeP": {
+    "logo_list_7RAtbB": {
       "type": "logo-list",
       "blocks": {
-        "logo_qdC6XW": {
+        "logo_3LJjcW": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Logotipo_del_Ministerio_de_Sanidad_svg.png",
-            "logo_width": 300,
+            "logo": "shopify://shop_images/1200px-VOGUE_revista_-_logo_1.png",
+            "logo_width": 120,
             "link": ""
           }
         },
-        "logo_GgXxcr": {
+        "logo_4r6BHC": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/500px-INSALUD__logotipo.png",
-            "logo_width": 300,
+            "logo": "shopify://shop_images/Comopolitan_Magazine_Logo_svg_1.png",
+            "logo_width": 120,
             "link": ""
           }
         },
-        "logo_XHDQgA": {
+        "logo_eyLtrt": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/images.png",
-            "logo_width": 100,
+            "logo": "shopify://shop_images/logo-seo_1.png",
+            "logo_width": 120,
             "link": ""
           }
         },
-        "logo_ixgard": {
+        "logo_zEHpnz": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/unnamed.png",
-            "logo_width": 300,
+            "logo": "shopify://shop_images/Marie_Claire_Magazine_logo.svg_1.png",
+            "logo_width": 120,
             "link": ""
           }
         }
       },
       "block_order": [
-        "logo_qdC6XW",
-        "logo_GgXxcr",
-        "logo_XHDQgA",
-        "logo_ixgard"
+        "logo_3LJjcW",
+        "logo_4r6BHC",
+        "logo_eyLtrt",
+        "logo_zEHpnz"
       ],
-      "name": "Logo list",
       "settings": {
         "full_width": true,
         "stack_mobile": true,
-        "title": "",
-        "content": "<h5><strong>Recomendado por</strong></h5>",
+        "title": "Vu sur :",
+        "content": "",
         "text_alignment": "center",
-        "items_per_row": 4,
-        "background": "#ffffff",
+        "items_per_row": 3,
+        "background": "",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
-        "logo_item_background": "#ffffff",
+        "logo_item_background": "",
         "logo_item_border": ""
       }
     },
-    "impact_text_kxY8qJ": {
+    "impact_text_Pnaj6i": {
       "type": "impact-text",
       "blocks": {
-        "item_7ipbU4": {
+        "item_LD9jA4": {
           "type": "item",
           "settings": {
             "title": "",
-            "subheading": "",
-            "content": "<p><em><strong>“ </strong></em><strong>Chaque jour, des millions de personnes ressentent migraines, fatigue mentale et sensation de tête lourde… sans imaginer qu’une simple gêne auditive peut en être la cause. </strong><em><strong>”  </strong></em><br/>— <strong>Dr Marc Delattre</strong>, ORL</p>",
+            "subheading": "Marre de ces rides qui s’installent et creusent ton visage ?",
+            "content": "",
             "button_text": "",
             "button_url": "",
             "animate_impact_text": false,
@@ -175,10 +99,8 @@
         }
       },
       "block_order": [
-        "item_7ipbU4"
+        "item_LD9jA4"
       ],
-      "disabled": true,
-      "name": "Impact text",
       "settings": {
         "full_width": true,
         "stack_mobile": true,
@@ -195,51 +117,15 @@
         "button_text_color": ""
       }
     },
-    "impact_text_cLfGH8": {
-      "type": "impact-text",
-      "blocks": {
-        "item_EHPVcj": {
-          "type": "item",
-          "settings": {
-            "title": "",
-            "subheading": "",
-            "content": "<h5><strong>Por qué Eavo® es indispensable...</strong></h5>",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": false,
-            "animate_impact_text_duration": 2
-          }
-        }
-      },
-      "block_order": [
-        "item_EHPVcj"
-      ],
-      "name": "Impact text",
-      "settings": {
-        "full_width": true,
-        "stack_mobile": true,
-        "text_alignment": "center",
-        "impact_text_style": "fill",
-        "text_divider": "none",
-        "impact_text_size_ratio": 1,
-        "background": "",
-        "background_gradient": "",
-        "heading_text_color": "",
-        "heading_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
-      }
-    },
-    "image_with_text_overlay_PEVJFf": {
+    "image_with_text_overlay_yG3icq": {
       "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Copie_de_Template_section_benefice_3.png",
+        "image": "shopify://shop_images/benef2.png",
+        "mobile_image": "shopify://shop_images/benef2.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -247,58 +133,15 @@
         "overlay_opacity": 0
       }
     },
-    "slideshow_ynDaNg": {
-      "type": "slideshow",
-      "blocks": {
-        "image_WtCRqt": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Design_sans_titre_1.png",
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "",
-            "title": "",
-            "heading_tag": "h0",
-            "button_text": "",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0,
-            "background": "",
-            "background_gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_WtCRqt"
-      ],
-      "disabled": true,
-      "name": "Slideshow",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": true,
-        "show_initial_transition": false,
-        "image_size": "auto",
-        "controls_type": "dots",
-        "transition_type": "fade_with_text",
-        "autoplay": false,
-        "cycle_speed": 6,
-        "background": "#ffffff",
-        "background_gradient": ""
-      }
-    },
-    "impact_text_wChALK": {
+    "impact_text_b4Uc7c": {
       "type": "impact-text",
       "blocks": {
-        "item_qpqX3J": {
+        "item_MHXD4n": {
           "type": "item",
           "settings": {
             "title": "",
-            "subheading": "",
-            "content": "<h5><strong>Ellos lo dicen mejor...</strong></h5>",
+            "subheading": "RÉSULTATS VISIBLES EN UNE NUIT SEULEMENT !",
+            "content": "<p>Un secret de beauté inspiré des soins dermatologiques professionnels</p>",
             "button_text": "",
             "button_url": "",
             "animate_impact_text": false,
@@ -307,9 +150,8 @@
         }
       },
       "block_order": [
-        "item_qpqX3J"
+        "item_MHXD4n"
       ],
-      "name": "Impact text",
       "settings": {
         "full_width": true,
         "stack_mobile": true,
@@ -326,138 +168,223 @@
         "button_text_color": ""
       }
     },
-    "ss_testimonial_10_K6rnQh": {
+    "image_with_text_overlay_LF3m8r": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "full_width": false,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/FoldsVideoGIF-ezgif.com-resize.gif",
+        "mobile_image": "shopify://shop_images/FoldsVideoGIF-ezgif.com-resize.gif",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "before_after_image_q4y8KM": {
+      "type": "before-after-image",
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Avant & Après LipBoost",
+        "content": "",
+        "before_image": "shopify://shop_images/gempages_534118646104982624-7ebb70c3-9845-4a60-b110-bd40dc1d7942_1.png",
+        "before_image_mobile": "shopify://shop_images/gempages_534118646104982624-7ebb70c3-9845-4a60-b110-bd40dc1d7942_1.png",
+        "after_image": "shopify://shop_images/gempages_534118646104982624-9d170f64-8c5d-4409-b9fe-71e00b3bb835_1.png",
+        "after_image_mobile": "shopify://shop_images/gempages_534118646104982624-9d170f64-8c5d-4409-b9fe-71e00b3bb835_1.png",
+        "expand_image": false,
+        "text_position": "center",
+        "before_after_text_position": "top",
+        "before_text": "Avant - 0min",
+        "after_text": "Après - 10min",
+        "drag_initial_position": 50,
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "before_text_color": "#ffffff",
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
+      }
+    },
+    "ss_testimonial_8_RG4UDb": {
+      "type": "ss-testimonial-8",
+      "settings": {
+        "heading": "Des résultats que vous verrez de vos propres yeux.",
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 40,
+        "heading_size_mobile": 24,
+        "heading_height": 130,
+        "heading_align": "center",
+        "rating_text": "Excellent",
+        "rating_text_custom": false,
+        "rating_text_font": "josefin_sans_n4",
+        "rating_text_size": 24,
+        "rating_text_size_mobile": 20,
+        "rating_text_height": 130,
+        "rating_text_mt": 16,
+        "rating": 4.8,
+        "rating_hide": false,
+        "rating_text_hide": false,
+        "rating_align": "center",
+        "stars_count": 5,
+        "stars_size": 28,
+        "stars_size_mobile": 24,
+        "stars_align": "center",
+        "text": "<p>Basé sur <strong>1 067</strong> avis</p>",
+        "text_custom": false,
+        "text_font": "josefin_sans_n4",
+        "text_size": 20,
+        "text_size_mobile": 16,
+        "text_height": 130,
+        "text_align": "center",
+        "text_mt": 16,
+        "slider_width": 80,
+        "slider_view": 3,
+        "slider_view_mobile": 1.2,
+        "slider_gap": 20,
+        "slider_gap_mobile": 20,
+        "slider_mt": 36,
+        "card_padding_vertical": 32,
+        "card_padding_vertical_mobile": 24,
+        "card_padding_horizontal": 40,
+        "card_padding_horizontal_mobile": 24,
+        "card_radius": 16,
+        "card_border_thickness": 0,
+        "card_shadow": true,
+        "card_heading_custom": false,
+        "card_heading_font": "josefin_sans_n4",
+        "card_heading_size": 24,
+        "card_heading_size_mobile": 20,
+        "card_heading_height": 130,
+        "card_heading_align": "center",
+        "card_heading_mt": 16,
+        "card_text_custom": false,
+        "card_text_font": "josefin_sans_n4",
+        "card_text_size": 14,
+        "card_text_size_mobile": 14,
+        "card_text_height": 150,
+        "card_text_align": "center",
+        "card_text_mt": 16,
+        "card_text_more": "View More",
+        "card_text_less": "View Less",
+        "card_count_words": 20,
+        "card_author_date_text_custom": false,
+        "card_author_date_text_font": "josefin_sans_n4",
+        "card_author_date_text_size": 16,
+        "card_author_date_text_size_mobile": 16,
+        "card_author_date_text_height": 130,
+        "card_author_date_text_align": "center",
+        "card_author_date_text_mt": 16,
+        "arrow_size": 50,
+        "arrow_size_mobile": 50,
+        "arrow_icon_size": 28,
+        "arrow_icon_size_mobile": 28,
+        "arrow_border_thickness": 0,
+        "arrow_show_desktop": true,
+        "arrow_show_mobile": false,
+        "dots_size": 12,
+        "dots_size_mobile": 12,
+        "dots_show_desktop": false,
+        "dots_show_mobile": false,
+        "button": "",
+        "button_url": "",
+        "button_custom": false,
+        "button_font": "josefin_sans_n4",
+        "button_size": 16,
+        "button_size_mobile": 14,
+        "button_height": 100,
+        "button_align": "center",
+        "button_mt": 16,
+        "button_padding_vertical": 20,
+        "button_padding_horizontal": 16,
+        "button_radius": 8,
+        "button_border_thickness": 0,
+        "button_color": "#ffffff",
+        "button_hover_color": "#ffffff",
+        "button_bg_color": "#000000",
+        "button_bg_hover_color": "#000000",
+        "button_border_color": "#000000",
+        "button_border_hover_color": "#000000",
+        "card_bg_color": "#ffffff",
+        "card_border_color": "#000000",
+        "card_shadow_color": "#00b67a",
+        "card_heading_color": "#000000",
+        "card_text_color": "#000000",
+        "card_author_date_text_color": "#000000",
+        "arrow_color": "#000000",
+        "arrow_hover_color": "#000000",
+        "arrow_bg_color": "#ffffff",
+        "arrow_bg_hover_color": "#ffffff",
+        "arrow_border_color": "#ffffff",
+        "arrow_border_hover_color": "#ffffff",
+        "dots_color": "#000000",
+        "heading_color": "#000000",
+        "rating_text_color": "#000000",
+        "stars_bg_color": "#00b67a",
+        "stars_color": "#ffffff",
+        "text_color": "#000000",
+        "background_color": "#ffffff",
+        "background_gradient": "linear-gradient(180deg, rgba(NaN, NaN, NaN, 0), rgba(NaN, NaN, NaN, 0) 97.482%, rgba(255, 255, 255, 1) 100%)",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 60,
+        "padding_bottom": 0,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 0,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0,
+        "lazy": true
+      }
+    },
+    "ss_testimonial_10_arDBwC": {
       "type": "ss-testimonial-10",
       "blocks": {
-        "testimonial_zHtR3K": {
+        "testimonial_dMgw9D": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify://shop_images/Image_PNG_2_878425c3-7db1-4fa7-a09e-ab201cc4e544.webp",
+            "image": "shopify://shop_images/results_ellie_450x_9838ba9d-9162-40ed-9718-fa5ff0c75067.png",
             "stars_count": 5,
-            "text": "<p>Resultados sorprendentes desde la primera vez. ¡Me encantó! He pedido uno segundo para mi mamá.</p>",
-            "author": "Léa C."
+            "text": "<p><em>\"Je n’y croyais pas, mais après une nuit, mes rides sous les yeux avaient quasiment disparu ! Plus besoin de maquillage pour les cacher.\"</em></p>",
+            "author": "– Claire, 46 ans."
           }
         },
-        "testimonial_dUpH68": {
+        "testimonial_4QXUdy": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify://shop_images/imgi_37_20250224_125623.webp",
+            "image": "shopify://shop_images/Tami_trump_450x_1.png",
             "stars_count": 5,
-            "text": "<p>Mi otorrino me lo recomendó, me dijo que dejara de usar bastoncillos. Desde entonces, ya no tengo tapones, me siento aliviado.</p>",
-            "author": "Pablo R."
-          }
-        },
-        "testimonial_a9gLMA": {
-          "type": "testimonial",
-          "settings": {
-            "image": "shopify://shop_images/Plus_efficace_que_n_importe_quel_coton-tige_600_x_600_px_17.webp",
-            "stars_count": 5,
-            "text": "<p>Desde que lo usamos, me siento aliviada, protejo su audición sin riesgo y al mismo tiempo le enseño el gesto correcto a realizar.</p>",
-            "author": "Nathalie M."
-          }
-        },
-        "testimonial_PMezxm": {
-          "type": "testimonial",
-          "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-07-28_a_17.45.29.webp",
-            "stars_count": 5,
-            "text": "<p>Este dispositivo realmente me ayuda a proteger mi audición. No soy muy hábil con la tecnología, pero el manual es claro y en 3 minutos ya sabía usarlo yo sola.</p>",
-            "author": "Verónica D."
-          }
-        },
-        "testimonial_qVFNnk": {
-          "type": "testimonial",
-          "settings": {
-            "image": "shopify://shop_images/imggg.webp",
-            "stars_count": 5,
-            "text": "<p>Tenía otitis recurrentes por culpa de los bastoncillos, y desde que uso Eavo, oigo mejor y no he vuelto a tener ninguna infección.</p>",
-            "author": "Clara B."
-          }
-        },
-        "testimonial_wWbhaM": {
-          "type": "testimonial",
-          "settings": {
-            "image": "shopify://shop_images/51o4sf95VTL.webp",
-            "stars_count": 5,
-            "text": "<p>Al principio no estaba muy seguro, pero la calidad de imagen es realmente excelente. Se ve todo con mucha claridad y la limpieza es muy eficaz.</p>",
-            "author": "Marco D."
-          }
-        },
-        "testimonial_aD6WeM": {
-          "type": "testimonial",
-          "settings": {
-            "image": "shopify://shop_images/12.webp",
-            "stars_count": 5,
-            "text": "<p>Pedí el pack de 3 para mi familia, es súper eficaz. Se ha convertido en un hábito, como cepillarse los dientes.</p>",
-            "author": "Damián V."
-          }
-        },
-        "testimonial_R8J8WH": {
-          "type": "testimonial",
-          "settings": {
-            "image": "shopify://shop_images/15.webp",
-            "stars_count": 5,
-            "text": "<p>Nos retamos con mi amigo para ver quién tenía más suciedad. No lo dudó ni un segundo y pidió el mismo enseguida.</p>",
-            "author": "Pedro T."
-          }
-        },
-        "testimonial_TCK7YT": {
-          "type": "testimonial",
-          "settings": {
-            "image": "shopify://shop_images/VisioEar_technologie_sante_auditive_3.webp",
-            "stars_count": 5,
-            "text": "<p>Me da vergüenza lo que he retirado… Ahora escucho mucho más claro. Adiós para siempre a los bastoncillos.</p>",
-            "author": "Sophia M."
-          }
-        },
-        "testimonial_GawYXE": {
-          "type": "testimonial",
-          "settings": {
-            "image": "shopify://shop_images/imgi_30_WhatsApp_Image_2024-09-22_at_20.33.24.webp",
-            "stars_count": 5,
-            "text": "<p>El manual es claro, lo instalé todo en 2 minutos. El dispositivo es ligero, manejable y muy fácil de usar.</p>",
-            "author": "Lorenzo L."
-          }
-        },
-        "testimonial_K6WyfM": {
-          "type": "testimonial",
-          "settings": {
-            "image": "shopify://shop_images/VisioEar_technologie_sante_auditive.webp",
-            "stars_count": 5,
-            "text": "<p>Durante meses, sentía una presión extraña en el oído. Tenía mucha cera acumulada y ahora pude verla y retirarla toda. Es un alivio real. ¡Nunca más bastoncillos!</p>",
-            "author": "Tiego G."
+            "text": "<p><em>\"Un effet botox sans la douleur et sans l’aiguille, j’adore !\"</em> </p>",
+            "author": "– Laura, 56 ans."
           }
         }
       },
       "block_order": [
-        "testimonial_zHtR3K",
-        "testimonial_dUpH68",
-        "testimonial_a9gLMA",
-        "testimonial_PMezxm",
-        "testimonial_qVFNnk",
-        "testimonial_wWbhaM",
-        "testimonial_aD6WeM",
-        "testimonial_R8J8WH",
-        "testimonial_TCK7YT",
-        "testimonial_GawYXE",
-        "testimonial_K6WyfM"
+        "testimonial_dMgw9D",
+        "testimonial_4QXUdy"
       ],
-      "name": "SS - Testimonials #10",
       "settings": {
-        "body_padding_vertical": 0,
-        "body_padding_vertical_mobile": 0,
-        "body_padding_horizontal": 18,
+        "body_padding_vertical": 50,
+        "body_padding_vertical_mobile": 16,
+        "body_padding_horizontal": 50,
         "body_padding_horizontal_mobile": 16,
         "body_radius": 12,
         "body_border_thickness": 0,
         "heading": "",
         "heading_custom": false,
-        "heading_font": "poppins_n4",
-        "heading_size": 32,
-        "heading_size_mobile": 20,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 40,
+        "heading_size_mobile": 24,
         "heading_height": 150,
-        "heading_align": "center",
-        "heading_align_mobile": "center",
+        "heading_align": "left",
+        "heading_align_mobile": "left",
         "sub_heading": "",
         "sub_heading_custom": false,
         "sub_heading_font": "josefin_sans_n4",
@@ -471,8 +398,8 @@
         "slider_mt": 20,
         "image_radius": 12,
         "image_border_thickness": 0,
-        "image_ratio": "square",
-        "image_ratio_mobile": "square",
+        "image_ratio": "original",
+        "image_ratio_mobile": "original",
         "stars_size": 20,
         "stars_mt": 24,
         "stars_align": "start",
@@ -499,37 +426,289 @@
         "arrow_icon_size_mobile": 28,
         "arrow_border_thickness": 0,
         "arrow_show_desktop": true,
-        "arrow_show_mobile": false,
+        "arrow_show_mobile": true,
         "dots_size": 12,
         "dots_size_mobile": 12,
         "dots_mt": 32,
-        "dots_show_desktop": true,
+        "dots_show_desktop": false,
         "dots_show_mobile": true,
         "body_bg_color": "#ffffff",
         "body_border_color": "#000000",
-        "stars_color": "#148f44",
-        "text_color": "#1a1a1a",
-        "author_color": "#1a1a1a",
-        "arrow_color": "#1a1a1a",
+        "stars_color": "#61caa5",
+        "text_color": "#000000",
+        "author_color": "#000000",
+        "arrow_color": "#756e67",
         "arrow_hover_color": "#ffffff",
         "arrow_bg_color": "#ffffff",
         "arrow_bg_hover_color": "#756e67",
         "arrow_border_color": "#756e67",
         "arrow_border_hover_color": "#756e67",
         "dots_color": "#756e67",
-        "heading_color": "#1a1a1a",
-        "sub_heading_color": "#1a1a1a",
+        "heading_color": "#756e67",
+        "sub_heading_color": "#756e67",
         "background_color": "#ffffff",
         "background_gradient": "",
         "border_color": "#000000",
         "margin_top": 0,
         "margin_bottom": 0,
-        "padding_top": 36,
+        "padding_top": 0,
         "padding_bottom": 36,
         "padding_horizontal": 5,
-        "padding_horizontal_mobile": 1.5,
+        "padding_horizontal_mobile": 0,
         "full_width": true,
         "content_width": 120,
+        "border_thickness": 0,
+        "lazy": true
+      }
+    },
+    "image_with_text_overlay_VD8jzk": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/compara.png",
+        "mobile_image": "shopify://shop_images/compara.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "ss_comparison_table_6_yAEc4E": {
+      "type": "ss-comparison-table-6",
+      "blocks": {
+        "table_row_jKNHnG": {
+          "type": "table_row",
+          "settings": {
+            "row_heading": "Non invasif et naturel",
+            "first_column": "",
+            "first_column_icon": "check",
+            "second_column": "",
+            "second_column_icon": "cross",
+            "third_column": "",
+            "third_column_icon": "none",
+            "four_column": "",
+            "four_column_icon": "none"
+          }
+        },
+        "table_row_dfJGpF": {
+          "type": "table_row",
+          "settings": {
+            "row_heading": "Stimulation du collagène",
+            "first_column": "",
+            "first_column_icon": "check",
+            "second_column": "",
+            "second_column_icon": "cross",
+            "third_column": "",
+            "third_column_icon": "none",
+            "four_column": "",
+            "four_column_icon": "none"
+          }
+        },
+        "table_row_wRbYyp": {
+          "type": "table_row",
+          "settings": {
+            "row_heading": "Sans douleur",
+            "first_column": "",
+            "first_column_icon": "check",
+            "second_column": "",
+            "second_column_icon": "cross",
+            "third_column": "",
+            "third_column_icon": "none",
+            "four_column": "",
+            "four_column_icon": "none"
+          }
+        },
+        "table_row_VRR3rQ": {
+          "type": "table_row",
+          "settings": {
+            "row_heading": "Effet durable",
+            "first_column": "",
+            "first_column_icon": "check",
+            "second_column": "",
+            "second_column_icon": "cross",
+            "third_column": "",
+            "third_column_icon": "none",
+            "four_column": "",
+            "four_column_icon": "none"
+          }
+        },
+        "table_row_DajCwp": {
+          "type": "table_row",
+          "settings": {
+            "row_heading": "Rapport qualité/prix",
+            "first_column": "",
+            "first_column_icon": "check",
+            "second_column": "",
+            "second_column_icon": "cross",
+            "third_column": "",
+            "third_column_icon": "none",
+            "four_column": "",
+            "four_column_icon": "none"
+          }
+        },
+        "table_row_HeTykh": {
+          "type": "table_row",
+          "settings": {
+            "row_heading": "Tarifs",
+            "first_column": "Investissement unique",
+            "first_column_icon": "none",
+            "second_column": "Coût élevé retouches régulières",
+            "second_column_icon": "none",
+            "third_column": "",
+            "third_column_icon": "none",
+            "four_column": "",
+            "four_column_icon": "none"
+          }
+        },
+        "table_row_yMfMLV": {
+          "type": "table_row",
+          "settings": {
+            "row_heading": "Prix",
+            "first_column": "29,99 €",
+            "first_column_icon": "none",
+            "second_column": "300€ à 600€",
+            "second_column_icon": "none",
+            "third_column": "",
+            "third_column_icon": "none",
+            "four_column": "",
+            "four_column_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "table_row_jKNHnG",
+        "table_row_dfJGpF",
+        "table_row_wRbYyp",
+        "table_row_VRR3rQ",
+        "table_row_DajCwp",
+        "table_row_HeTykh",
+        "table_row_yMfMLV"
+      ],
+      "disabled": true,
+      "settings": {
+        "body_gap": 32,
+        "body_gap_mobile": 16,
+        "content_horizontal_align": "start",
+        "content_horizontal_align_mobile": "center",
+        "heading": "<h4><strong>LipBoost vs </strong>Injections</h4>",
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 52,
+        "heading_size_mobile": 26,
+        "heading_height": 130,
+        "text": "<p>Comparaison des Méthodes de Repulpage des Lèvres</p>",
+        "text_custom": false,
+        "text_font": "josefin_sans_n4",
+        "text_size": 18,
+        "text_size_mobile": 18,
+        "text_height": 150,
+        "text_mt": 4,
+        "list_mt": 50,
+        "list_mt_mobile": 32,
+        "list_gap": 30,
+        "list_gap_mobile": 30,
+        "list_hide_mobile": true,
+        "icon_size": 28,
+        "icon_size_mobile": 28,
+        "icon_margin_right": 16,
+        "list_text_custom": false,
+        "list_text_font": "josefin_sans_n4",
+        "list_text_size": 20,
+        "list_text_size_mobile": 18,
+        "list_text_height": 150,
+        "button": "",
+        "button_url": "",
+        "button_custom": false,
+        "button_font": "josefin_sans_n4",
+        "button_size": 18,
+        "button_size_mobile": 18,
+        "button_height": 100,
+        "button_width": 305,
+        "button_mt": 50,
+        "button_mt_mobile": 32,
+        "button_padding_vertical": 16,
+        "button_padding_vertical_mobile": 16,
+        "button_padding_horizontal": 48,
+        "button_padding_horizontal_mobile": 48,
+        "button_radius": 100,
+        "button_border_thickness": 0,
+        "button_style": "non_outline",
+        "button_position_mobile": "bottom",
+        "table_columns": 3,
+        "table_mt_mobile": 32,
+        "table_column_active": "2",
+        "table_radius": 14,
+        "table_border_thickness": 1,
+        "table_heading_image_size": 100,
+        "table_heading_image_size_mobile": 76,
+        "first_heading": "Patchs Microcristallins",
+        "second_heading": "Botox/Injections",
+        "third_heading": "Crèmes anti-rides",
+        "four_heading": "Fourth",
+        "table_heading_custom": false,
+        "table_heading_font": "assistant_n4",
+        "table_heading_size": 20,
+        "table_heading_size_mobile": 16,
+        "table_heading_height": 100,
+        "table_heading_align": "center",
+        "table_heading_padding_horizontal": 18,
+        "table_heading_padding_horizontal_mobile": 18,
+        "table_heading_padding_vertical": 18,
+        "table_heading_padding_vertical_mobile": 18,
+        "table_row_padding_horizontal": 14,
+        "table_row_padding_horizontal_mobile": 14,
+        "table_row_padding_vertical": 16,
+        "table_row_padding_vertical_mobile": 16,
+        "table_row_heading_width_mobile": 66,
+        "table_row_heading_custom": false,
+        "table_row_heading_font": "assistant_n4",
+        "table_row_heading_size": 16,
+        "table_row_heading_size_mobile": 16,
+        "table_row_heading_height": 130,
+        "table_row_heading_align": "left",
+        "table_row_text_custom": false,
+        "table_row_text_font": "assistant_n4",
+        "table_row_text_size": 20,
+        "table_row_text_size_mobile": 16,
+        "table_row_text_height": 130,
+        "table_row_text_align": "center",
+        "table_row_image_size": 24,
+        "table_row_image_size_mobile": 24,
+        "heading_color": "#000000",
+        "text_color": "#000000",
+        "icon_color": "#000000",
+        "list_text_color": "#000000",
+        "button_color": "#ffffff",
+        "button_hover_color": "#f53a4e",
+        "button_bg_color": "#16142b",
+        "button_bg_hover_color": "#16142b",
+        "button_border_color": "#16142b",
+        "button_border_hover_color": "#16142b",
+        "table_border_color": "#f53a4e",
+        "table_active_border_color": "#f53a4e",
+        "table_heading_color": "#1a192e",
+        "table_heading_active_color": "#ffffff",
+        "table_heading_bg_active_color": "#000000",
+        "table_column_active_bg_color": "#000000",
+        "table_row_heading_color": "#1a192e",
+        "table_row_text_color": "#1a192e",
+        "table_row_active_text_color": "#ffffff",
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "padding_horizontal": 0,
+        "padding_horizontal_mobile": 0.5,
+        "full_width": false,
+        "content_width": 400,
         "border_thickness": 0,
         "lazy": true
       }
@@ -539,64 +718,36 @@
       "blocks": {
         "liquid_zmcyxW": {
           "type": "liquid",
-          "disabled": true,
           "settings": {
-            "liquid": "<div id=\"shopify-section-template--24620306497867__html_tXrXMm\" class=\"shopify-section\" bis_skin_checked=\"1\">\n\n\n\n<div id=\"html-section-template--24620306497867__html_tXrXMm\" class=\"html-section enter-view bg-body text-body text-center pt-5 pb-0 mt-0 mb-0 entered\" bis_skin_checked=\"1\">\n    <div class=\"container\" bis_skin_checked=\"1\">\n        \n\n<style data-shopify=\"\">\n#background-text-template--24620306497867__html_tXrXMm {\n    font-size: calc(2em * 3);\n}\n</style>\n\n\n\n \n\n\n\n\n        <div style=\"display: inline-flex; align-items: center; background-color: rgb(245, 245, 245); color: rgb(0, 0, 0); padding: 6px 14px; border-radius: 20px; font-weight: bold; font-size: 14px; white-space: nowrap; width: fit-content; position: relative;\" bis_skin_checked=\"1\">\n    ÉLU #1 SOIN BUCCO-DENTAIRE EN 2025 <img width=\"18\" height=\"18\" src=\"https://img.icons8.com/color/18/france.png\" alt=\"drapeau-france\" style=\"margin-left: 10px;\" class=\"\">\n</div>\n        \n    </div>\n</div>\n  \n</div>"
-          }
-        },
-        "title_QF8HGp": {
-          "type": "title",
-          "disabled": true,
-          "settings": {
-            "heading_tag": "h4"
-          }
-        },
-        "text_ej39DB": {
-          "type": "text",
-          "settings": {
-            "text": "<h5><strong>Eavo® Pro - Dispositivo de limpieza</strong></h5>"
+            "liquid": "<div id=\"shopify-section-template--24620306497867__html_tXrXMm\" class=\"shopify-section\" bis_skin_checked=\"1\">\n\n\n\n<div id=\"html-section-template--24620306497867__html_tXrXMm\" class=\"html-section enter-view bg-body text-body text-center pt-5 pb-0 mt-0 mb-0 entered\" bis_skin_checked=\"1\">\n    <div class=\"container\" bis_skin_checked=\"1\">\n        \n\n<style data-shopify=\"\">\n#background-text-template--24620306497867__html_tXrXMm {\n    font-size: calc(2em * 3);\n}\n</style>\n\n\n\n \n\n\n\n\n        <div style=\"display: inline-flex; align-items: center; background-color: rgb(245, 245, 245); color: rgb(0, 0, 0); padding: 6px 14px; border-radius: 20px; font-weight: bold; font-size: 14px; white-space: nowrap; width: fit-content; position: relative;\" bis_skin_checked=\"1\">\n    ÉLU #1 DES ANTI-RIDES <img width=\"18\" height=\"18\" src=\"https://img.icons8.com/color/18/france.png\" alt=\"drapeau-france\" style=\"margin-left: 10px;\" class=\"\">\n</div>\n        \n    </div>\n</div>\n  \n</div>"
           }
         },
         "liquid_hLVdx8": {
           "type": "liquid",
           "settings": {
-            "liquid": "<!DOCTYPE html>\n<html>\n<head>\n<style>\n:root {\n  --social-proof-text-color: #000000;\n  --social-proof-star-color: #008763;\n}\n\n.social-proof-slide__block-rating {\n    display: flex;\n    align-items: center;\n    justify-content: flex-start;\nfont-size: 14px;\n}\n\n.social-proof-slide__block-stars {\n    display: flex;\n    margin-right: 8px;\n    color: var(--social-proof-star-color);\n}\n\n.social-proof-slide__block-rating-text {\n    display: inline;\n    color: var(--social-proof-text-color);\n    content: var(--social-proof-rating-text);\n}\n\n.social-proof-star {\n    margin: 0;\n    padding: 0;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    width: 16px;\n    height: 16px;\n}\n\n.social-proof-star svg {\n    width: 16px;\n    height: 16px;\n    fill: var(--social-proof-star-color);\n}\n</style>\n</head>\n<body>\n\n<div class=\"social-proof-slide__block-rating mt-2\">\n  <span class=\"social-proof-slide__block-stars\">\n    <span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n  </span>\n  <span class=\"social-proof-slide__block-rating-text\">\n    Excelente 4.8/5\n  </span>\n</div>\n\n</body>\n</html>"
+            "liquid": "<!DOCTYPE html>\n<html>\n<head>\n<style>\n:root {\n  --social-proof-text-color: #000000;\n  --social-proof-star-color: #008763;\n}\n\n.social-proof-slide__block-rating {\n    display: flex;\n    align-items: center;\n    justify-content: flex-start;\nfont-size: 14px;\n}\n\n.social-proof-slide__block-stars {\n    display: flex;\n    margin-right: 8px;\n    color: var(--social-proof-star-color);\n}\n\n.social-proof-slide__block-rating-text {\n    display: inline;\n    color: var(--social-proof-text-color);\n    content: var(--social-proof-rating-text);\n}\n\n.social-proof-star {\n    margin: 0;\n    padding: 0;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    width: 16px;\n    height: 16px;\n}\n\n.social-proof-star svg {\n    width: 16px;\n    height: 16px;\n    fill: var(--social-proof-star-color);\n}\n</style>\n</head>\n<body>\n\n<div class=\"social-proof-slide__block-rating mt-2\">\n  <span class=\"social-proof-slide__block-stars\">\n    <span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n  </span>\n  <span class=\"social-proof-slide__block-rating-text\">\n    Excellent 4.8/5\n  </span>\n</div>\n\n</body>\n</html>"
           }
         },
-        "judge_me_reviews_preview_badge_homepage_k4RxQM": {
-          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge_homepage/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "disabled": true,
+        "title_QF8HGp": {
+          "type": "title",
           "settings": {
-            "product": "legging-3d-my-peach-lift™"
-          }
-        },
-        "image_rdWW7d": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Eliminez_vos_bourdonnements_3.png",
-            "alignment": "center",
-            "max_width": 500
+            "heading_tag": "h2"
           }
         },
         "price_3zNh6Y": {
           "type": "price",
-          "disabled": true,
           "settings": {
             "show_taxes_notice": false
           }
         },
-        "quantity_selector_HxYzFF": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
         "separator_hByp6X": {
           "type": "separator",
-          "disabled": true,
           "settings": {}
         },
         "image_wb7Ume": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/eben_prod.png",
             "alignment": "center",
             "max_width": 500
           }
@@ -615,32 +766,31 @@
             "liquid": "<div class=\"product-block-liquid-code mt-2 mb-6 wb-force-show-element\" bis_skin_checked=\"1\">\n    <div style=\"background-color: #ffffff; border: 1px solid #000000; border-radius: 8px; padding: 10px 20px; text-align: center; font-family: 'Arial', sans-serif; margin: 15px auto; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); max-width: 700px;\" bis_skin_checked=\"1\">\n    <h2 style=\"color: #000000; font-size: 1.1rem; font-weight: bold; margin-bottom: 6px;\">\n        Sérum Repulpant Offert\n    </h2>\n    <p style=\"color: #333333; font-size: 0.85rem; line-height: 1.4; font-weight: 500; margin: 0;\">\n        Pour toute commande de LipBoost, recevez <strong style=\"color: #000000;\">gratuitement</strong> notre sérum repulpant enrichi en acide hyaluronique.\n        Un soin intense pour des lèvres encore plus sublimes.\n    </p>\n</div>\n</div>"
           }
         },
-        "kaching_bundles_app_block_7rx6B4": {
+        "liquid_HiCHya": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">Plus que 5 packs en stock</div>\n</div>"
+          }
+        },
+        "kaching_bundles_app_block_CfVaKr": {
           "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
           "settings": {
-            "product": "{{ section.settings.product }}"
+            "product": "{{section.settings.product}}"
           }
         },
         "liquid_dqzqq4": {
           "type": "liquid",
-          "disabled": true,
           "settings": {
             "liquid": "<style style=\"z-index: 22;\">\n.unique-body-Xyz123 {\n  font-family: Arial, sans-serif;\n  background-color: #f9f9f9;\n  color: #333;\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  height: 100vh;\n  margin: 0;\n}\n\n.unique-container-Abc456 {\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  gap: 10px; /* Badge'ler arasındaki boşluk */\n}\n\n.unique-badge-Def789 {\n  display: inline-flex;\n  align-items: center;\n  background-color: #e0ffd8; /* Çok açık yeşil arka plan */\n  color: #004d00; /* Koyu yeşil metin */\n  padding: 2px 4px; /* Küçültülmüş padding */\n  border-radius: 3px; /* Küçültülmüş yuvarlama */\n  font-size: 10px; /* Küçültülmüş font boyutu */\n  font-weight: bold;\n  text-align: center;\n  position: relative;\n}\n\n.unique-badge-Ghi012 {\n  display: inline-flex;\n  align-items: center;\n  background-color: #ffdede; /* Açık kırmızı arka plan */\n  color: #b22222; /* Koyu kırmızı metin */\n  padding: 2px 4px; /* Küçültülmüş padding */\n  border-radius: 3px; /* Küçültülmüş yuvarlama */\n  font-size: 10px; /* Küçültülmüş font boyutu */\n  font-weight: bold;\n  text-align: center;\n  position: relative;\n}\n\n.unique-icon-Jkl345 {\n  width: 12px; /* Küçültülmüş ikon boyutu */\n  height: 12px; /* Küçültülmüş ikon boyutu */\n  margin-right: 2px;\n  vertical-align: middle;\n}\n\n.unique-badge-Def789 span, .unique-badge-Ghi012 span {\n  display: flex;\n  align-items: center;\n  white-space: nowrap; /* Metinlerin tek satırda kalmasını sağlar */\n}\n\n@keyframes\n unique-rotate-Mno678 {\n  from {\n    transform: rotate(0deg);\n  }\n  to {\n    transform: rotate(360deg);\n  }\n}\n\n.unique-clock-hand-Pqr901 {\n  transform-origin: 50% 50%;\n  animation: unique-rotate-Mno678 2s linear infinite;\n}\n</style>\n\n<div class=\"unique-container-Abc456\" style=\"z-index: 21;\">\n  <div class=\"unique-badge-Def789\">\n    <span>\n      <svg class=\"unique-icon-Jkl345\" viewBox=\"0 0 24 24\" xmlns=\"http://w3.org/2000/svg\">\n        <path fill=\"#004d00\" d=\"M12 2C9.24 2 7 4.24 7 7V10H5C3.9 10 3 10.9 3 12V19C3 20.1 3.9 21 5 21H19C20.1 21 21 20.1 21 19V12C21 10.9 20.1 10 19 10H17V7C17 4.24 14.76 2 12 2M12 4C13.66 4 15 5.34 15 7V10H9V7C9 5.34 10.34 4 12 4M12 12C13.1 12 14 12.9 14 14C14 15.1 13.1 16 12 16C10.9 16 10 15.1 10 14C10 12.9 10.9 12 12 12Z\"></path>\n      </svg>\n30J Satisfait ou remboursé</span>\n  </div>\n\n  <div class=\"unique-badge-Ghi012\">\n    <span>\n      <svg class=\"unique-icon-Jkl345\" viewBox=\"0 0 24 24\" xmlns=\"http://w3.org/2000/svg\">\n        <circle cx=\"12\" cy=\"12\" r=\"10\" stroke=\"#b22222\" stroke-width=\"2\" fill=\"none\"></circle>\n        <line x1=\"12\" y1=\"12\" x2=\"12\" y2=\"6\" stroke=\"#b22222\" stroke-width=\"2\" class=\"unique-clock-hand-Pqr901\"></line>\n        <line x1=\"12\" y1=\"12\" x2=\"16\" y2=\"12\" stroke=\"#b22222\" stroke-width=\"2\"></line>\n      </svg>\nSTOCK FAIBLE !    </span>\n  </div>\n</div>"
-          }
-        },
-        "liquid_HiCHya": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">¡Solo quedan 5 en stock!</div>\n</div>"
           }
         },
         "buy_buttons_Njnz3b": {
           "type": "buy_buttons",
           "settings": {
             "show_payment_button": false,
-            "show_gift_card_recipient": false,
-            "atc_button_background": "#1a1a1a",
-            "atc_button_text_color": "#ffffff",
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
@@ -654,22 +804,21 @@
         "image_TpQFWb": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/icon_trust.png",
             "alignment": "center",
             "max_width": 500
           }
         },
         "liquid_kAkDQJ": {
           "type": "liquid",
-          "disabled": true,
           "settings": {
             "liquid": "<div class=\"product-block-liquid-code mt-6 mb-6 wb-force-show-element\" bis_skin_checked=\"1\">\n    <div style=\"background-color: #f9f9f9; border-left: 4px solid #ff9ca5; padding: 15px; margin-bottom: 20px; border-radius: 4px;\" bis_skin_checked=\"1\">\n        <p style=\"font-style: italic;\">“Je n’y croyais pas, mais après une nuit, mes rides sous les yeux avaient quasiment disparu ! Plus besoin de maquillage pour les cacher.” –<strong>Claire, 46 ans.</strong></p>\n    </div>\n</div>"
           }
         },
         "liquid_BfqB9a": {
           "type": "liquid",
-          "disabled": true,
           "settings": {
-            "liquid": "<div class=\"product-info__liquid\" bis_skin_checked=\"1\">\n            <div class=\"product-info__liquid\" bis_skin_checked=\"1\">\n            <div class=\"product-info__liquid\" bis_skin_checked=\"1\">\n    <div style=\"display: flex; margin-bottom: 20px; margin-top: -15px; align-items: center; border: 1px solid #e1e1e1; padding: 12px; border-radius: 10px; max-width: 1200px;\" bis_skin_checked=\"1\">\n        <div style=\"flex-shrink: 0;\" bis_skin_checked=\"1\">\n            <img src=\"https://www.lutronic.com/us/wp-content/uploads/sites/5/2023/08/Melda_Isaac-600x600-1.png\" alt=\"Profile Picture\" style=\"border-radius: 50%; width: 60px; height: 60px; object-fit: cover;\">\n        </div>\n        <div style=\"margin-left: 8px;\" bis_skin_checked=\"1\">\n            <div style=\"display: flex; align-items: center;\" bis_skin_checked=\"1\">\n                <img src=\"https://cdn.shopify.com/s/files/1/0549/0117/8598/files/stars-4.5.svg?v=1662112912\" alt=\"Stars\" style=\"width: 100px; height: auto;\">\n            </div>\n            <p style=\"font-style: italic; font-size: 11px; margin: 5px 0;\">\"Buccodent est une brosse innovante qui respecte parfaitement la technique de brossage BASS. Grâce à ses micro-vibrations et son embout en silicone médical, elle assure un nettoyage en profondeur tout en restant douce pour les gencives. C’est une solution simple, efficace et adaptée à un usage quotidien, que je recommande sans hésiter à mes patients.\"</p>\n            <div style=\"display: flex; align-items: center;\" bis_skin_checked=\"1\">\n                <img src=\"https://pagepilot.ai/images/checkmark.svg\" alt=\"Verified Icon\" style=\"width: 20px; height: 20px; margin-right: 5px;\">\n                <span>Dr Sophie L. Chirurgien-dentiste</span>\n            </div>\n        </div>\n    </div>\n</div>\n          </div>\n<!-- <div class=\"richtext-product-description2\">\n<p>*Nos visuels sont illustratifs : chaque produit conserve son design et sa qualité, avec parfois de subtiles variations entre les lots.</p>\n</div> -->\n\n<style>\n/* .richtext-product-description p:nth-child(1)::before {\n  content: '';\n  display: inline-block;\n  background-size: contain;\n  background-repeat: no-repeat;\n  margin-right: 8px; /* Espacement entre l'icône et le texte */\n  vertical-align: middle; /* Aligne l'icône avec le texte */\n}\n.richtext-product-description2 p {\n  font-size: 14px;\n  line-height: 26px;\n} */\n</style>\n          </div>"
+            "liquid": "<div class=\"product-info__liquid\" bis_skin_checked=\"1\">\n            <div class=\"product-info__liquid\" bis_skin_checked=\"1\">\n            <div class=\"product-info__liquid\" bis_skin_checked=\"1\">\n    <div style=\"display: flex; margin-bottom: 20px; margin-top: -15px; align-items: center; border: 1px solid #e1e1e1; padding: 12px; border-radius: 10px; max-width: 1200px;\" bis_skin_checked=\"1\">\n        <div style=\"flex-shrink: 0;\" bis_skin_checked=\"1\">\n            <img src=\"https://www.lutronic.com/us/wp-content/uploads/sites/5/2023/08/Melda_Isaac-600x600-1.png\" alt=\"Profile Picture\" style=\"border-radius: 50%; width: 60px; height: 60px; object-fit: cover;\">\n        </div>\n        <div style=\"margin-left: 8px;\" bis_skin_checked=\"1\">\n            <div style=\"display: flex; align-items: center;\" bis_skin_checked=\"1\">\n                <img src=\"https://cdn.shopify.com/s/files/1/0549/0117/8598/files/stars-4.5.svg?v=1662112912\" alt=\"Stars\" style=\"width: 100px; height: auto;\">\n            </div>\n            <p style=\"font-style: italic; font-size: 11px; margin: 5px 0;\">\"Je vous recommande vivement les patchs microcristallins de chez Rosevia pour le visage ! Il hydrate intensément, réduit les rides et raffermit la peau pour un teint plus lisse et éclatant. Un véritable allié pour une peau visiblement plus jeune, radieuse et pleine de vie.\"</p>\n            <div style=\"display: flex; align-items: center;\" bis_skin_checked=\"1\">\n                <img src=\"https://pagepilot.ai/images/checkmark.svg\" alt=\"Verified Icon\" style=\"width: 20px; height: 20px; margin-right: 5px;\">\n                <span>Dr Sophie L. Dermatologue</span>\n            </div>\n        </div>\n    </div>\n</div>\n          </div>\n<!-- <div class=\"richtext-product-description2\">\n<p>*Nos visuels sont illustratifs : chaque produit conserve son design et sa qualité, avec parfois de subtiles variations entre les lots.</p>\n</div> -->\n\n<style>\n/* .richtext-product-description p:nth-child(1)::before {\n  content: '';\n  display: inline-block;\n  background-size: contain;\n  background-repeat: no-repeat;\n  margin-right: 8px; /* Espacement entre l'icône et le texte */\n  vertical-align: middle; /* Aligne l'icône avec le texte */\n}\n.richtext-product-description2 p {\n  font-size: 14px;\n  line-height: 26px;\n} */\n</style>\n          </div>"
           }
         },
         "liquid_aPeb8L": {
@@ -681,7 +830,6 @@
         },
         "collapsible_text_FrqpwT": {
           "type": "collapsible_text",
-          "disabled": true,
           "settings": {
             "title": "Informations sur le masque",
             "content": "<p>Ingrédients :</p><p>Collagène, Acide hyaluronique, Glycérine, Sans paraben</p><p>Mode d'emploi :</p><p>Mouiller le visage avec de l'eau tiède.</p><p>Appliquer le masque pendant 15 à 30 minutes. Vous pouvez également le laisser toute la nuit ! </p>",
@@ -690,7 +838,6 @@
         },
         "collapsible_text_L3QyJt": {
           "type": "collapsible_text",
-          "disabled": true,
           "settings": {
             "title": "❓ Comment ça marche ?",
             "content": "<p>💡 Les patchs diffusent l’Acide Hyaluronique directement sous la peau, sans douleur, pour repulper et lisser les rides en quelques heures.</p>",
@@ -699,7 +846,6 @@
         },
         "collapsible_text_YA8Uif": {
           "type": "collapsible_text",
-          "disabled": true,
           "settings": {
             "title": "❓ Est-ce que ça fonctionne vraiment ?",
             "content": "<p>Oui ! 94% de nos utilisatrices ont constaté une diminution des rides dès la première semaine.</p>",
@@ -708,7 +854,6 @@
         },
         "collapsible_text_6znqMt": {
           "type": "collapsible_text",
-          "disabled": true,
           "settings": {
             "title": "❓ Est-ce douloureux ?",
             "content": "<p>Pas du tout ! Contrairement aux injections, la sensation est douce et agréable.</p>",
@@ -717,7 +862,6 @@
         },
         "collapsible_text_RAbfk4": {
           "type": "collapsible_text",
-          "disabled": true,
           "settings": {
             "title": "❓ Combien de temps avant de voir les résultats ?",
             "content": "<p>Dès 2 heures après application, vous verrez une nette amélioration !</p>",
@@ -726,61 +870,25 @@
         },
         "collapsible_text_ftBeWY": {
           "type": "collapsible_text",
-          "disabled": true,
           "settings": {
             "title": "Besoin d’aide supplémentaire ?",
             "content": "<p>Contactez notre service client, nous sommes là pour vous ! 😊</p>",
             "page": ""
           }
-        },
-        "liquid_8F43L4": {
-          "type": "liquid",
-          "disabled": true,
-          "settings": {
-            "liquid": "<div id=\"buccodent-timer-wrapper\" style=\"background:#E6F3F5;padding:16px;border-radius:12px;text-align:center;\">\n  <p style=\"font-weight:bold;font-size:18px;margin:0 0 8px;\">⚡ Offre limitée - se termine dans :</p>\n  <div id=\"buccodent-timer\" style=\"font-size:24px;font-weight:bold;color:#d10000;\"></div>\n  <p style=\"font-size:14px;margin-top:8px;\">Profitez de -50% + livraison gratuite avant minuit !</p>\n</div>\n\n<script>\n  function updateCountdown() {\n    const now = new Date();\n    const midnight = new Date();\n    midnight.setHours(23, 59, 59, 999);\n\n    const diff = midnight - now;\n    const hours = String(Math.floor(diff / (1000 * 60 * 60))).padStart(2, '0');\n    const minutes = String(Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60))).padStart(2, '0');\n    const seconds = String(Math.floor((diff % (1000 * 60)) / 1000)).padStart(2, '0');\n\n    document.getElementById(\"buccodent-timer\").innerText = `${hours}:${minutes}:${seconds}`;\n  }\n\n  updateCountdown();\n  setInterval(updateCountdown, 1000);\n</script>"
-          }
-        },
-        "description_ir6khz": {
-          "type": "description",
-          "disabled": true,
-          "settings": {
-            "collapse_content": true
-          }
-        },
-        "associated_products_BJdcLN": {
-          "type": "associated_products",
-          "disabled": true,
-          "settings": {
-            "title": "Fréquemment achetés ensemble ",
-            "stack_products": true,
-            "products_count": 3,
-            "background": "#ffffff",
-            "text_color": ""
-          }
-        },
-        "liquid_pRVHp9": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div id='ss-product-videos'></div>"
-          }
         }
       },
       "block_order": [
         "liquid_zmcyxW",
-        "title_QF8HGp",
-        "text_ej39DB",
         "liquid_hLVdx8",
-        "judge_me_reviews_preview_badge_homepage_k4RxQM",
-        "image_rdWW7d",
+        "title_QF8HGp",
         "price_3zNh6Y",
-        "quantity_selector_HxYzFF",
         "separator_hByp6X",
         "image_wb7Ume",
         "liquid_EHHArz",
         "liquid_ALRLF6",
-        "kaching_bundles_app_block_7rx6B4",
-        "liquid_dqzqq4",
         "liquid_HiCHya",
+        "kaching_bundles_app_block_CfVaKr",
+        "liquid_dqzqq4",
         "buy_buttons_Njnz3b",
         "liquid_7nB9Ek",
         "image_TpQFWb",
@@ -792,21 +900,17 @@
         "collapsible_text_YA8Uif",
         "collapsible_text_6znqMt",
         "collapsible_text_RAbfk4",
-        "collapsible_text_ftBeWY",
-        "liquid_8F43L4",
-        "description_ir6khz",
-        "associated_products_BJdcLN",
-        "liquid_pRVHp9"
+        "collapsible_text_ftBeWY"
       ],
       "settings": {
         "full_width": true,
-        "product": "dispositivo-de-limpieza-eavo",
+        "product": "patchs-anti-rides-microcristallins",
         "desktop_media_width": 55,
-        "desktop_media_layout": "carousel_thumbnails_bottom",
+        "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "contained",
-        "mobile_carousel_control": "thumbnails",
-        "enable_video_autoplay": false,
-        "enable_video_looping": true,
+        "mobile_carousel_control": "free_scroll",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
         "enable_image_zoom": false,
         "max_image_zoom_level": 3,
         "background": "",
@@ -816,355 +920,258 @@
         "input_text_color": ""
       }
     },
-    "ss_product_vidoes_qGQwUw": {
-      "type": "ss-product-vidoes",
+    "image_with_text_overlay_84beLF": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "full_width": false,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/doco.png",
+        "mobile_image": "shopify://shop_images/doco.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "custom_liquid_NAJACE": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<div id=\"shopify-section-template--19297057767663__icons_list_NGrm7y\" class=\"shopify-section section-icons-list\" bis_skin_checked=\"1\"><!-- -- featured promotion start -- -->\n<div class=\"featured_promotion bg-yellow\" bis_skin_checked=\"1\">\n    <div class=\"container\" bis_skin_checked=\"1\">\n        <div class=\"fp-wrapper\" bis_skin_checked=\"1\"><div class=\"fp_item\" bis_skin_checked=\"1\">\n                    \n                        <div class=\"fp_icon\" bis_skin_checked=\"1\">\n                            <img src=\"https://qureskincare.com/cdn/shop/files/free-shipping-ftr_150x.svg?v=1707822298&amp;em-format=avif\" alt=\"\" class=\"img-fluid\">\n                        </div>\n                    \n                    \n                        <div class=\"fp_icon_text\" bis_skin_checked=\"1\">\n                            <p>Free Shipping</p><p>Orders Over €100</p>\n                        </div> \n                    \n                </div><div class=\"fp_item\" bis_skin_checked=\"1\">\n                    \n                        <div class=\"fp_icon\" bis_skin_checked=\"1\">\n                            <img src=\"https://qureskincare.com/cdn/shop/files/buy-now-ftr_150x.svg?v=1706890098&amp;em-format=avif\" alt=\"\" class=\"img-fluid\">\n                        </div>\n                    \n                    \n                        <div class=\"fp_icon_text\" bis_skin_checked=\"1\">\n                            <p>Buy Now,</p><p>Pay Later</p>\n                        </div> \n                    \n                </div><div class=\"fp_item\" bis_skin_checked=\"1\">\n                    \n                        <div class=\"fp_icon\" bis_skin_checked=\"1\">\n                            <img src=\"https://qureskincare.com/cdn/shop/files/derma-ftr_150x.svg?v=1706890165&amp;em-format=avif\" alt=\"\" class=\"img-fluid\">\n                        </div>\n                    \n                    \n                        <div class=\"fp_icon_text\" bis_skin_checked=\"1\">\n                            <p>Dermatologist</p><p>Reviewed</p>\n                        </div> \n                    \n                </div><div class=\"fp_item\" bis_skin_checked=\"1\">\n                    \n                        <div class=\"fp_icon\" bis_skin_checked=\"1\">\n                            <img src=\"https://qureskincare.com/cdn/shop/files/science-ftr_150x.svg?v=1706890215&amp;em-format=avif\" alt=\"\" class=\"img-fluid\">\n                        </div>\n                    \n                    \n                        <div class=\"fp_icon_text\" bis_skin_checked=\"1\">\n                            <p>Proven Results,</p><p>Backed by science</p>\n                        </div> \n                    \n                </div></div>\n    </div>\n</div>\n<!-- -- featured promotion end -- -->\n\n\n</div>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "ss_before_after_image_4_bTJVXJ": {
+      "type": "ss-before-after-image-4",
       "blocks": {
-        "video_QUwLHW": {
-          "type": "video",
+        "slide_jUJGTr": {
+          "type": "slide",
           "settings": {
-            "video": "",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "modal_heading": "",
-            "modal_text": ""
+            "before_image": "shopify://shop_images/Screenshot_897.png",
+            "after_image": "shopify://shop_images/Screenshot_898.png",
+            "heading": "<p><strong>une Peau Lisse en 2H</strong></p>",
+            "stars_count": 5,
+            "text": "<p>J'étais sceptique… Mais après 2h, mes ridules avaient presque disparu ! Plus besoin de fond de teint pour camoufler mes cernes. <strong>– Claire, 46 ans.</strong></p>"
           }
         },
-        "video_3dGLbW": {
-          "type": "video",
+        "slide_aA4aFz": {
+          "type": "slide",
           "settings": {
-            "video": "",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "modal_heading": "",
-            "modal_text": ""
-          }
-        },
-        "video_f6Cy63": {
-          "type": "video",
-          "settings": {
-            "video": "",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "modal_heading": "",
-            "modal_text": ""
+            "before_image": "shopify://shop_images/Screenshot_941.png",
+            "after_image": "shopify://shop_images/Screenshot_942.png",
+            "heading": "<h3><strong>Sans Aiguille, Sans Douleur !</strong></h3>",
+            "stars_count": 5,
+            "text": "<p><em>Ce patch est une révolution ! Plus efficace qu’une crème anti-rides, et sans douleur !\"</em> <strong>– Laura, 39 ans.</strong></p>"
           }
         }
       },
       "block_order": [
-        "video_QUwLHW",
-        "video_3dGLbW",
-        "video_f6Cy63"
+        "slide_jUJGTr",
+        "slide_aA4aFz"
       ],
-      "name": "SS - Product Videos",
       "settings": {
-        "videos_position": "above_description",
-        "use_metafield": false,
-        "heading": "<p>Más de <strong>50 000 usuarios</strong> le han dicho adiós a los bastoncillos de algodón.</p>",
+        "heading": "",
         "heading_custom": false,
         "heading_font": "josefin_sans_n4",
-        "heading_size": 18,
-        "heading_size_mobile": 18,
+        "heading_size": 48,
+        "heading_size_mobile": 32,
         "heading_height": 130,
         "heading_align": "center",
         "heading_align_mobile": "center",
-        "slider_view": 3,
-        "slider_view_mobile": 3,
-        "slider_gap": 16,
-        "slider_gap_mobile": 16,
-        "slider_mt": 20,
-        "card_radius": 10,
-        "card_border_thickness": 2,
-        "card_shadow": false,
-        "video_ratio": "portrait",
-        "video_ratio_mobile": "portrait",
-        "video_overlay": 0.1,
-        "icon_size": 34,
-        "icon_size_mobile": 34,
-        "icon_border_thickness": 1,
-        "icon_position_mobile": "bottom_left",
-        "icon_position": "bottom_left",
-        "hide_icon": false,
-        "arrow_size": 35,
-        "arrow_size_mobile": 35,
-        "arrow_radius": 5,
-        "arrow_border_thickness": 0,
-        "arrow_hover_shadow": false,
+        "body_gap": 100,
+        "body_gap_mobile": 40,
+        "body_mt": 0,
+        "body_mt_mobile": 0,
+        "image_padding": 0,
+        "image_padding_mobile": 0,
+        "image_ratio": "portrait",
+        "image_ratio_mobile": "portrait",
+        "image_radius": 20,
+        "image_border_thickness": 0,
+        "image_shadow": true,
+        "text_from": "Avant",
+        "text_to": "Après",
+        "before_after_text_custom": false,
+        "before_after_text_font": "josefin_sans_n4",
+        "before_after_text_size": 25,
+        "before_after_text_size_mobile": 18,
+        "before_after_text_height": 130,
+        "slide_heading_custom": false,
+        "slide_heading_font": "josefin_sans_n4",
+        "slide_heading_size": 42,
+        "slide_heading_size_mobile": 28,
+        "slide_heading_height": 130,
+        "slide_heading_align": "left",
+        "slide_heading_align_mobile": "left",
+        "stars_size": 30,
+        "stars_mt": 20,
+        "stars_align": "start",
+        "stars_align_mobile": "start",
+        "slide_text_custom": false,
+        "slide_text_font": "josefin_sans_n4",
+        "slide_text_size": 18,
+        "slide_text_size_mobile": 16,
+        "slide_text_height": 150,
+        "slide_text_mt": 22,
+        "slide_text_align": "left",
+        "slide_text_align_mobile": "left",
+        "navigation_position_mobile": "top",
+        "navigation_mt": 30,
+        "navigation_mt_mobile": 20,
+        "navigation_gap": 10,
+        "navigation_align": "start",
+        "navigation_align_mobile": "center",
+        "arrow_size": 50,
+        "arrow_size_mobile": 50,
         "arrow_show_desktop": true,
         "arrow_show_mobile": true,
-        "show_content": false,
-        "modal_width": 70,
-        "modal_width_mobile": 95,
-        "modal_padding_vertical": 0,
-        "modal_padding_vertical_mobile": 0,
-        "modal_padding_horizontal": 0,
-        "modal_padding_horizontal_mobile": 0,
-        "modal_radius": 16,
-        "modal_border_thickness": 0,
-        "modal_overlay": 50,
-        "close_size": 42,
-        "close_size_mobile": 42,
-        "close_radius": 8,
-        "close_border_thickness": 0,
-        "buttons_size": 48,
-        "buttons_size_mobile": 48,
-        "buttons_radius": 8,
-        "buttons_border_thickness": 0,
-        "modal_video_radius": 0,
-        "modal_video_border_thickness": 0,
-        "modal_video_ratio": "portrait",
-        "modal_video_ratio_mobile": "portrait",
-        "modal_heading_custom": true,
-        "modal_heading_font": "poppins_n4",
-        "modal_heading_size": 28,
-        "modal_heading_size_mobile": 28,
-        "modal_heading_height": 130,
-        "modal_heading_align": "center",
-        "modal_heading_align_mobile": "center",
-        "modal_text_custom": true,
-        "modal_text_font": "poppins_n4",
-        "modal_text_size": 0,
-        "modal_text_size_mobile": 0,
-        "modal_text_height": 50,
-        "modal_text_align": "center",
-        "modal_text_align_mobile": "center",
-        "modal_text_mt": 16,
-        "card_bg_color": "#FFFFFF",
-        "card_border_color": "#000000",
-        "card_shadow_color": "#000000",
-        "video_overlay_color": "#000000",
-        "icon_bg_color": "#000000",
-        "icon_border_color": "#FFFFFF",
-        "icon_color": "#FFFFFF",
-        "arrow_bg_color": "#FFFFFF",
-        "arrow_bg_hover_color": "#FFFFFF",
-        "arrow_border_color": "#000000",
-        "arrow_border_hover_color": "#000000",
-        "arrow_icon_color": "#1c1c1c",
-        "arrow_icon_hover_color": "#1c1c1c",
-        "modal_bg_color": "#FFFFFF",
-        "modal_border_color": "#000000",
-        "close_bg_color": "#FFFFFF",
-        "close_border_color": "#000000",
-        "close_icon_color": "#FFFFFF",
-        "buttons_bg_color": "#FFFFFF",
-        "buttons_border_color": "#000000",
-        "buttons_icon_color": "#FFFFFF",
-        "modal_video_border_color": "#000000",
-        "modal_content_bg_color": "#FFFFFF",
-        "modal_content_border_color": "#000000",
-        "modal_heading_color": "#000000",
-        "modal_text_color": "#000000",
-        "heading_color": "#000000",
-        "background_color": "#FFFFFF",
+        "pagination_custom": false,
+        "pagination_font": "josefin_sans_n4",
+        "pagination_size": 14,
+        "pagination_size_mobile": 14,
+        "pagination_height": 130,
+        "image_bg_color": "#FFFFFF",
+        "image_border_color": "#000000",
+        "before_text_color": "#121212",
+        "after_text_color": "#85ccf5",
+        "slide_heading_color": "#121212",
+        "stars_color": "#61caa5",
+        "slide_text_color": "#121212",
+        "arrow_color": "#000000",
+        "arrow_hover_color": "#000000",
+        "pagination_color": "#000000",
+        "heading_color": "#121212",
+        "background_color": "#ffffff",
         "background_gradient": "",
         "border_color": "#000000",
         "margin_top": 0,
         "margin_bottom": 0,
-        "padding_top": 20,
-        "padding_bottom": 20,
-        "padding_horizontal": 0,
-        "padding_horizontal_mobile": 0,
+        "padding_top": 76,
+        "padding_bottom": 76,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": false,
+        "content_width": 120,
         "border_thickness": 0,
         "lazy": true
       }
     },
-    "impact_text_ddTDpt": {
-      "type": "impact-text",
-      "blocks": {
-        "item_DbHfBU": {
-          "type": "item",
-          "settings": {
-            "title": "",
-            "subheading": "",
-            "content": "<h5><strong>¿Cómo funciona?</strong></h5>",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": false,
-            "animate_impact_text_duration": 2
-          }
-        }
-      },
-      "block_order": [
-        "item_DbHfBU"
-      ],
-      "name": "Impact text",
-      "settings": {
-        "full_width": true,
-        "stack_mobile": true,
-        "text_alignment": "center",
-        "impact_text_style": "fill",
-        "text_divider": "none",
-        "impact_text_size_ratio": 1,
-        "background": "",
-        "background_gradient": "",
-        "heading_text_color": "",
-        "heading_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
-      }
-    },
-    "slideshow_q9KihP": {
-      "type": "slideshow",
-      "blocks": {
-        "image_kngyVK": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Scaner_le_QR_code_avec_votre_appareil_photo.png",
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "",
-            "title": "",
-            "heading_tag": "h0",
-            "button_text": "",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0,
-            "background": "",
-            "background_gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_kngyVK"
-      ],
-      "name": "Slideshow",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": true,
-        "show_initial_transition": false,
-        "image_size": "auto",
-        "controls_type": "dots",
-        "transition_type": "fade_with_text",
-        "autoplay": false,
-        "cycle_speed": 6,
-        "background": "#f2f2f2",
-        "background_gradient": ""
-      }
-    },
-    "media_with_text_jbHabP": {
-      "type": "media-with-text",
-      "blocks": {
-        "video_B3LBFB": {
-          "type": "video",
-          "settings": {
-            "video": "",
-            "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "autoplay": true,
-            "media_width": 50,
-            "media_position": "start",
-            "text_position": "place-self-center text-center",
-            "icon": "none",
-            "icon_width": 48,
-            "subheading": "",
-            "title": "",
-            "content": "<p><strong>Los bastoncillos son ineficaces y peligrosos.</strong> Está claramente indicado en cada envase: <em>‘No introducir en el conducto auditivo.’</em></p>",
-            "link_text": "",
-            "link_url": "",
-            "background": "#ffffff",
-            "background_gradient": "",
-            "text_color": "#1a1a1a",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "video_B3LBFB"
-      ],
-      "name": "Media with text",
-      "settings": {
-        "full_width": false,
-        "spacing": "small"
-      }
-    },
-    "faq_XDekNc": {
+    "faq_dLcrRD": {
       "type": "faq",
       "blocks": {
-        "item_Pm67nR": {
+        "item_Kbk7pV": {
           "type": "item",
           "settings": {
-            "title": "1. ¿Eavo® Pro es seguro para los oídos?",
-            "content": "<p>Sí, totalmente. Eavo® Pro está equipado con una cámara HD y una punta flexible que permite una limpieza guiada y segura, sin tocar el tímpano.<br/><br/>A diferencia de los bastoncillos de algodón, que empujan el cerumen hacia el fondo, Eavo® Pro lo elimina suavemente, siguiendo las recomendaciones de los especialistas ORL.</p>"
+            "title": "1. Comment fonctionne ce patch anti-rides ?",
+            "content": "<p>💡 <strong>Nos patchs utilisent la technologie microcristalline infusée à l’Acide Hyaluronique et aux Peptides.</strong></p><p>Ces <strong>micro-aiguilles indolores</strong> permettent aux actifs de pénétrer en profondeur pour <strong>hydrater et lisser instantanément la peau</strong>.</p><p>Après <strong>2 heures d’application</strong>, vous remarquez déjà une <strong>peau plus lisse, plus ferme et repulpée</strong>.</p><p><strong>Après 2 semaines d’utilisation</strong>, 93% des utilisatrices constatent une réduction visible des rides et ridules.</p><p>📢 <strong>Sans douleur, sans injection, sans effet secondaire !</strong></p>"
           }
         },
-        "item_XiFa6d": {
+        "item_AdXeRP": {
           "type": "item",
           "settings": {
-            "title": "2. ¿Puede usarlo cualquier persona?",
-            "content": "<p>Sí. Eavo® Pro es adecuado para toda la familia: niños, adultos y personas mayores.<br/><br/>Su punta ergonómica y su luz LED permiten un uso fácil, incluso en las zonas más sensibles.<br/><br/>(Para los niños, se recomienda que un adulto realice la limpieza).</p>"
+            "title": "2. Est-ce que ça fonctionne vraiment ?",
+            "content": "<p>✅ <strong>OUI ! Et les résultats sont cliniquement prouvés.</strong><br/><br/>📊 <strong>Statistiques testées en laboratoire :</strong></p><p>🔬 <strong>73% de réduction des rides après 4 semaines d’utilisation régulière.</strong></p><p>🔬 <strong>94% des utilisatrices constatent une peau plus lisse et rebondie dès la première semaine.</strong></p><p>🔬 <strong>86% déclarent préférer cette solution aux crèmes anti-rides et aux injections.</strong></p><p>💬 <strong>Témoignages clients :</strong><br/><br/><em>\"Je n’y croyais pas, mais après une seule application, mes ridules sous les yeux ont quasiment disparu !\"</em> – Sophie, 42 ans.<br/><br/><em>\"Je pensais que c’était du marketing… jusqu’à ce que je voie la différence après une nuit d’utilisation. Bluffant !\"</em> – Claire, 46 ans.</p><p>🎯 <strong>Essayez-le sans risque et jugez par vous-même !</strong></p><h3></h3>"
           }
         },
-        "item_zxqg7b": {
+        "item_J4DdRT": {
           "type": "item",
           "settings": {
-            "title": "3. ¿Cómo funciona la cámara?",
-            "content": "<p>Solo tienes que conectar Eavo® Pro a tu smartphone mediante Wi-Fi (compatible con iOS y Android).<br/><br/>La aplicación dedicada te muestra en directo el interior del oído, para una limpieza precisa, visible y sin riesgo.</p>"
+            "title": "3. À quelle fréquence dois-je utiliser les patchs ?",
+            "content": "<p>💆‍♀️ <strong>Nous recommandons d’utiliser les patchs 2 à 3 fois par semaine pour des résultats optimaux.</strong><br/><br/>👉 <strong>Pour un effet anti-rides intensif, vous pouvez les utiliser quotidiennement.</strong></p><p>📢 <strong>Petit conseil : Utilisez-les avant une occasion spéciale pour un effet liftant immédiat !</strong></p>"
           }
         },
-        "item_7LBADV": {
+        "item_nNeQfJ": {
           "type": "item",
           "settings": {
-            "title": "4. ¿Realmente puede aliviar migrañas y la sensación de cabeza pesada?",
-            "content": "<p>Sí, muchos usuarios notan una reducción de las tensiones después de liberar sus conductos auditivos.<br/><br/>Cuando los oídos están obstruidos, la presión interna entre la cabeza y el oído se desequilibra, lo que puede causar fatiga, migrañas o malestar.<br/><br/>Eavo® Pro ayuda a restaurar ese equilibrio de forma natural.</p>"
+            "title": "4. Est-ce que ça fonctionne sur les rides profondes ?",
+            "content": "<p>✅ <strong>OUI ! Nos patchs sont conçus pour lisser aussi bien les ridules que les rides plus marquées.</strong><br/><br/>💡 Grâce aux <strong>Peptides et à l’Acide Hyaluronique</strong>, ils stimulent la production naturelle de collagène pour un <strong>effet raffermissant à long terme</strong>.</p><p>📢 <strong>Plus vous les utilisez, plus votre peau retrouve sa fermeté et son élasticité naturelle.</strong></p><h3></h3>"
           }
         },
-        "item_fc7Mzc": {
+        "item_gwQqMg": {
           "type": "item",
           "settings": {
-            "title": "5. ¿Se necesita algún producto o solución líquida?",
-            "content": "<p>No, no es necesario.<br/><br/>Eavo® Pro limpia mecánicamente gracias a su cámara y a sus puntas suaves.<br/><br/>Se recomienda enjuagar ligeramente la punta con agua tibia después de cada uso y secarla bien.</p>"
+            "title": "5. Est-ce adapté aux peaux sensibles ?",
+            "content": "<p>🧴 <strong>OUI ! Nos patchs sont 100% hypoallergéniques et testés dermatologiquement.</strong><br/><br/>✅ <strong>Sans parabènes, sans silicone, sans parfum irritant.</strong><br/><br/>✅ <strong>Convient même aux peaux ultra-sensibles.</strong></p><p>💡 <strong>Si vous avez des allergies cutanées spécifiques, faites un test sur une petite zone avant application.</strong></p><h3></h3>"
           }
         },
-        "item_gfeNRn": {
+        "item_biH7Vq": {
           "type": "item",
           "settings": {
-            "title": "6. ¿Con qué frecuencia debe usarse?",
-            "content": "<p>Una o dos veces por semana es suficiente para mantener una buena higiene auditiva.<br/><br/>En caso de sentir el oído taponado, puedes usarlo ocasionalmente, sin riesgo de irritación.</p>"
+            "title": "6. Puis-je utiliser ces patchs avec mes autres soins ?",
+            "content": "<p>🧴 <strong>OUI ! Nos patchs sont compatibles avec toutes vos routines de soins.</strong><br/><br/>👉 <strong>Appliquez vos crèmes et sérums habituels APRÈS avoir retiré le patch pour maximiser les résultats.</strong></p><p>📢 <strong>Astuce : Associez-les avec un sérum hydratant pour prolonger l’effet tenseur.</strong></p>"
           }
         },
-        "item_VBeCkw": {
+        "item_kaWfdj": {
           "type": "item",
           "settings": {
-            "title": "7. ¿Cuál es la autonomía de Eavo® Pro?",
-            "content": "<p>La batería integrada ofrece hasta 90 minutos de uso continuo.<br/><br/>El cable de carga USB incluido permite una carga completa en aproximadamente 1 hora.</p>"
+            "title": "7. Combien de temps avant de voir des résultats ?",
+            "content": "<p>⏳ <strong>Dès la première application :</strong> Peau plus lisse et hydratée en 2h.<br/><br/>🔬 <strong>Après 2 semaines :</strong> Réduction visible des rides et amélioration du teint.<br/><br/>📊 <strong>Après 1 mois :</strong> Effet tenseur longue durée et peau visiblement rajeunie.</p><p>📢 <strong>Rien à perdre, sauf vos rides !</strong></p><h3></h3>"
           }
         },
-        "item_BN3qJ3": {
+        "item_ffQnzA": {
           "type": "item",
           "settings": {
-            "title": "8. ¿Eavo® Pro está aprobado por los especialistas ORL?",
-            "content": "<p>El diseño y la tecnología de Eavo® Pro siguen las recomendaciones de los especialistas ORL:</p><ul><li>Limpieza visual y controlada<br/></li><li>Sin presión interna<br/></li><li>Puntas suaves e higiénicas<br/><br/>Es una solución inspirada en las herramientas profesionales, adaptada para uso doméstico.</li></ul>"
+            "title": "8. Combien de temps les effets durent-ils ?",
+            "content": "<p>⏳ <strong>Les effets immédiats (hydratation et lissage) durent jusqu'à 24h.</strong><br/><br/>💎 <strong>Pour un effet durable, utilisez nos patchs régulièrement pendant plusieurs semaines.</strong></p><h3></h3>"
+          }
+        },
+        "item_xmNdYa": {
+          "type": "item",
+          "settings": {
+            "title": "9. Y a-t-il des contre-indications ?",
+            "content": "<p>🚫 <strong>Ne pas utiliser sur une peau irritée ou avec une plaie ouverte.</strong><br/><br/>🚫 <strong>Déconseillé aux femmes enceintes (par précaution, comme pour tous les produits à absorption cutanée).</strong></p><p>💡 <strong>Si vous avez des doutes, consultez votre dermatologue.</strong></p><h3></h3>"
+          }
+        },
+        "item_NnzRFp": {
+          "type": "item",
+          "settings": {
+            "title": "10. Puis-je réutiliser les patchs ?",
+            "content": "<p>❌ <strong>Non. Chaque patch est conçu pour une seule utilisation.</strong><br/><br/>👉 <strong>Pourquoi ?</strong> Car les microcristaux se dissolvent après l’application pour libérer les actifs en profondeur.</p><p>📢 <strong>Astuce : Utilisez un patch neuf à chaque application pour garantir des résultats optimaux !</strong></p><h3></h3>"
+          }
+        },
+        "item_pEwLNB": {
+          "type": "item",
+          "settings": {
+            "title": "11. Puis-je commander en toute sécurité ?",
+            "content": "<p>✅ <strong>100% Sécurisé – Paiement crypté et protégé.</strong><br/><br/>✅ <strong>Satisfait ou Remboursé – Garantie 30 jours.</strong><br/><br/>✅ <strong>Livraison OFFERTE sur les packs supérieurs à 2 boîtes.</strong></p><p>📦 <strong>Suivi en temps réel : Vous recevrez un e-mail ou un SMS avec votre numéro de suivi dès l’expédition.</strong></p><p>📢 <strong>Commandez en toute confiance et profitez d’une peau plus jeune dès maintenant !</strong></p>"
           }
         }
       },
       "block_order": [
-        "item_Pm67nR",
-        "item_XiFa6d",
-        "item_zxqg7b",
-        "item_7LBADV",
-        "item_fc7Mzc",
-        "item_gfeNRn",
-        "item_VBeCkw",
-        "item_BN3qJ3"
+        "item_Kbk7pV",
+        "item_AdXeRP",
+        "item_J4DdRT",
+        "item_nNeQfJ",
+        "item_gwQqMg",
+        "item_biH7Vq",
+        "item_kaWfdj",
+        "item_ffQnzA",
+        "item_xmNdYa",
+        "item_NnzRFp",
+        "item_pEwLNB"
       ],
-      "name": "FAQ",
       "settings": {
         "full_width": true,
         "subheading": "",
-        "title": "",
-        "content": "<h4><strong>Preguntas frecuentes</strong></h4>",
+        "title": "FAQ's",
+        "content": "<p>LipBoost Repulpeur de Lèvres</p>",
         "team_avatar_width": 160,
         "support_hours": "",
         "answer_time": "",
         "button_text": "",
         "button_url": "",
         "text_position": "center",
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
-        "text_color": "",
+        "text_color": "#000000",
         "heading_color": "",
         "heading_gradient": "",
         "button_background": "",
@@ -1173,101 +1180,46 @@
         "accordion_text_color": ""
       }
     },
-    "text_with_icons_wfGDqq": {
-      "type": "text-with-icons",
-      "blocks": {
-        "item_GPDywB": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-star",
-            "custom_icon": "shopify://shop_images/Return-policy_1.webp",
-            "mobile_icon_width": 120,
-            "icon_width": 120,
-            "icon_background_type": "none",
-            "icon_background": "#e6f3f5",
-            "icon_color": "#1a1a1a",
-            "title": "",
-            "content": "<p><strong>Retours sous 30 jours</strong></p><p>Remboursements et échanges de taille sous 30 jours . Consultez notre politique de retour pour plus de détails.</p>"
-          }
-        },
-        "item_GNWzwP": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-customer-support",
-            "custom_icon": "shopify://shop_images/Solution_1.gif",
-            "mobile_icon_width": 120,
-            "icon_width": 120,
-            "icon_background_type": "none",
-            "icon_background": "#f2f2f2",
-            "icon_color": "#1a1a1a",
-            "title": "",
-            "content": "<p><strong>Qualité Premium</strong></p><p>Conçu avec un tissu exclusif, chaque fibre est choisie pour sa douceur, sa résistance et sa capacité à sublimer votre allure…</p>"
-          }
-        },
-        "item_EkfDyM": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-lock",
-            "custom_icon": "shopify://shop_images/High-quality--comfort_1.webp",
-            "mobile_icon_width": 120,
-            "icon_width": 120,
-            "icon_background_type": "none",
-            "icon_background": "#e6f3f5",
-            "icon_color": "#1a1a1a",
-            "title": "",
-            "content": "<p><strong>Confortable & Respirant</strong><br/><br/>Un tissu respirant et anti-humidité qui garde votre peau au frais. Profitez d’un confort absolu, tout en restant élégante et séduisante, du matin au soir.</p>"
-          }
-        },
-        "item_mwt4K6": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-truck",
-            "custom_icon": "shopify://shop_images/Magnet-for-confidence-and-attractiveness-_1.webp",
-            "mobile_icon_width": 120,
-            "icon_width": 120,
-            "icon_background_type": "none",
-            "icon_background": "#e6f3f5",
-            "icon_color": "#1a1a1a",
-            "title": "",
-            "content": "<p><strong>Attirez l’attention</strong><br/><br/>Faites tourner toutes les têtes dès votre arrivée. Mettez en valeur vos courbes, inspirez confiance et dégagez une prestance naturelle qui ne passe jamais inaperçue.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_GPDywB",
-        "item_GNWzwP",
-        "item_EkfDyM",
-        "item_mwt4K6"
-      ],
-      "disabled": true,
+    "ss_wave_2_tU7qQR": {
+      "type": "ss-wave-2",
       "settings": {
-        "full_width": true,
-        "stack_on_mobile": true,
-        "title": "",
-        "heading_tag": "h3",
-        "text_alignment": "center",
-        "icon_spacing": "small",
-        "background": "#ffffff",
+        "wave_height": 120,
+        "wave_height_mobile": 80,
+        "wave_animation": true,
+        "wave_rotate": false,
+        "wave_color": "#85ccf5",
+        "background_color": "#ffffff",
         "background_gradient": "",
-        "text_color": "#1a1a1a"
+        "border_color": "rgba(0,0,0,0)",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_horizontal": 0,
+        "padding_horizontal_mobile": 0,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0
       }
     }
   },
   "order": [
-    "slideshow_dpDW4j",
-    "logo_list_xwdYeP",
-    "impact_text_kxY8qJ",
-    "impact_text_cLfGH8",
-    "image_with_text_overlay_PEVJFf",
-    "slideshow_ynDaNg",
-    "impact_text_wChALK",
-    "ss_testimonial_10_K6rnQh",
+    "video_En6bxX",
+    "logo_list_7RAtbB",
+    "impact_text_Pnaj6i",
+    "image_with_text_overlay_yG3icq",
+    "impact_text_b4Uc7c",
+    "image_with_text_overlay_LF3m8r",
+    "before_after_image_q4y8KM",
+    "ss_testimonial_8_RG4UDb",
+    "ss_testimonial_10_arDBwC",
+    "image_with_text_overlay_VD8jzk",
+    "ss_comparison_table_6_yAEc4E",
     "featured_product_7ECepx",
-    "ss_product_vidoes_qGQwUw",
-    "impact_text_ddTDpt",
-    "slideshow_q9KihP",
-    "media_with_text_jbHabP",
-    "faq_XDekNc",
-    "text_with_icons_wfGDqq"
+    "image_with_text_overlay_84beLF",
+    "custom_liquid_NAJACE",
+    "ss_before_after_image_4_bTJVXJ",
+    "faq_dLcrRD",
+    "ss_wave_2_tU7qQR"
   ]
 }
